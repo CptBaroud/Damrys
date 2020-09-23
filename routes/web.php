@@ -14,9 +14,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'HomeController@index')->name('home');
+
+
 Route::get('/actualite', 'BlogController@home')->name('blogHome');
-Route::get('/actualite/article', 'BlogController@article')->name('blogArticle');
-Route::get('/actualite/add', 'BlogController@add')->name('blogAdd');
+Route::get('/actualite/add', 'BlogController@add')->name('blogAdd')->middleware('auth');
+Route::post('/actualite/add', 'BlogController@add_post')->name('blogAddPost')->middleware('auth');
+Route::get('/actualite/{id}', 'BlogController@article')->name('blogArticle');
+Route::get('/actualite/{id}/edit', 'BlogController@edit')->name('blogEdit')->middleware('auth');
+Route::post('/actualite/{id}/edit', 'BlogController@edit_post')->name('blogEditPost')->middleware('auth');
+Route::get('/actualite/{id}/delete', 'BlogController@delete')->name('blogDelete')->middleware('auth');
 
 Route::get('/entreprise', function (){
     return view('entreprise');

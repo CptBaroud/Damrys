@@ -61,18 +61,27 @@
                             </div>
                             <ul class="select-name">
                                 <li>
-                                    <a href="?lang=en" id="buttonEnglishChange"><img
-                                            src="{{ asset('images/blog/flag.png') }}"
-                                            alt="image">English
+                                    <a href="?lang=en" id="buttonEnglishChange"><img src="{{ asset('images/blog/flag.png') }}" alt="image">English
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="?lang=fr" id="buttonFrenchChange"><img
-                                            src="{{ asset('images/blog/flag-fr') }}-24x24.png" alt="image"
-                                            id="buttonFrenchChange">Français</a>
+                                    <a href="?lang=fr" id="buttonFrenchChange"><img src="{{ asset('images/blog/flag-fr') }}-24x24.png" alt="image" id="buttonFrenchChange">Français</a>
                                 </li>
                             </ul>
                         </div>
+                    </div>
+                    <div style="float: right;">
+                        @if(Auth::check())
+                        <a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                            Déconnexion
+                        </a>
+
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                            {{ csrf_field() }}
+                        </form>
+                        @else
+                            <a href="{{route('login')}}" style="color: white;">Se connecter</a>
+                        @endif
                     </div>
                 </div>
             </div>
@@ -86,8 +95,7 @@
                     <div class="header-top clearfix">
                         <div class="header-top-logo">
                             <a id="logo" href="{{ route('home') }}" class="logo">
-                                <img src="{{ asset('images/logo-damrys.png') }}" alt="Damrys" data-width="156"
-                                     data-height="36">
+                                <img src="{{ asset('images/logo-damrys.png') }}" alt="Damrys" data-width="156" data-height="36">
                             </a>
                         </div>
                         <div class="header-top-info">
@@ -118,12 +126,10 @@
                                     <div class="header-text">
                                         <h4><a href="#" id="headerAdressTitle" class="">ADRESSE</a></h4>
                                         <h5>
-                                            <a href="https://www.google.com/maps/place/1+Rue+Ren%C3%A9+Panhard,+44360+Vigneux-de-Bretagne/@47.3045501,-1.7571017,17z/data=!3m1!4b1!4m5!3m4!1s0x48058e4215521d13:0x826cbcb96f1785c0!8m2!3d47.3045465!4d-1.754913"
-                                               id="headerAdressContent">1 Rue René Panhard - 44360
+                                            <a href="https://www.google.com/maps/place/1+Rue+Ren%C3%A9+Panhard,+44360+Vigneux-de-Bretagne/@47.3045501,-1.7571017,17z/data=!3m1!4b1!4m5!3m4!1s0x48058e4215521d13:0x826cbcb96f1785c0!8m2!3d47.3045465!4d-1.754913" id="headerAdressContent">1 Rue René Panhard - 44360
                                                 Vigneux-de-Bretagne</a></h5>
                                         <h5>
-                                            <a href="https://www.google.com/maps/place/7+Rue+L%C3%A9on+Blum,+76530+Grand-Couronne/@49.3641951,1.0149102,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e0296112022d:0x2cc23dbef83a8608!8m2!3d49.3641916!4d1.0170989"
-                                               id="headerAdressContent2">7 rue Léon
+                                            <a href="https://www.google.com/maps/place/7+Rue+L%C3%A9on+Blum,+76530+Grand-Couronne/@49.3641951,1.0149102,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e0296112022d:0x2cc23dbef83a8608!8m2!3d49.3641916!4d1.0170989" id="headerAdressContent2">7 rue Léon
                                                 Blum - 76530 Grand-Couronne</a></h5>
                                     </div>
                                 </li>
@@ -154,8 +160,7 @@
                                             <a href="{{ route('entreprise') }}" title="" id="entrepriseLink">L'entreprise</a>
                                         </li>
                                         <li>
-                                            <a href="#" title="" id="activityDropdown">Activités <i
-                                                    class="fa fa-caret-down"></i></a>
+                                            <a href="#" title="" id="activityDropdown">Activités <i class="fa fa-caret-down"></i></a>
                                             <ul class="sub-menu">
                                                 <li id="raffinerie">
                                                     <a href="{{ route('raffinerie') }}" title="" id="raffinerieLink">Raffinerie,
@@ -165,8 +170,7 @@
                                                     <a href="{{ route('fonderie') }}" title="" id="fonderieLink">Fonderie</a>
                                                 </li>
                                                 <li id="incineration">
-                                                    <a href="{{ route('incineration') }}" title=""
-                                                       id="incinerationLink">Incinération</a>
+                                                    <a href="{{ route('incineration') }}" title="" id="incinerationLink">Incinération</a>
                                                 </li>
                                                 <li id="cremation">
                                                     <a href="{{ route('cremation') }}" title="" id="cremationLink">Crémation</a>
@@ -213,7 +217,7 @@
 
 <body>
 
-@yield('content')
+    @yield('content')
 
 </body>
 
@@ -295,8 +299,7 @@
 <div id="scroll-top"><i class="fa fa-angle-up"> </i></div>
 <!-- Main js files-->
 <script src="{{ asset('javascript/map.js')}}"></script>
-<script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB-lPzqKPR1sdZsnAgw22gWivO5CIP8fHs&callback=initMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB-lPzqKPR1sdZsnAgw22gWivO5CIP8fHs&callback=initMap"></script>
 <script src="{{ asset('javascript/jquery.min.js')}}"></script>
 <script src="{{ asset('javascript/jquery.easing.js')}}"></script>
 <script src="{{ asset('javascript/jquery-waypoints.js')}}"></script>
@@ -329,8 +332,3 @@
 <script src="{{ asset('javascript/lang/lang.en.js') }}"></script>
 <script src="{{ asset('javascript/lang/lang.fr.js') }}"></script>
 <script src="{{ asset('javascript/traduction.js') }}"></script>
-
-
-
-
-
