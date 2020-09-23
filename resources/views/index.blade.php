@@ -96,7 +96,7 @@
                              data-splitout="none"
                              data-responsive_offset="on"
                              data-paddingtop="['0','0','0','0']"
-                             data-paddingbottom="['0','0','0','0']"><a href="contact.php" class="hvr-shutter-out-verticall">Voir plus</a>
+                             data-paddingbottom="['0','0','0','0']"><a href="{{ route('contact') }}" class="hvr-shutter-out-verticall">Voir plus</a>
                         </div>
                     </li><!-- /End Slide 1 -->
 
@@ -187,7 +187,7 @@
                              data-splitout="none"
                              data-responsive_offset="on"
                              data-paddingtop="['0','0','0','0']"
-                             data-paddingbottom="['0','0','0','0']"><a href="contact.php" class="hvr-shutter-out-verticall">Voir plus</a>
+                             data-paddingbottom="['0','0','0','0']"><a href="{{ route('contact') }}" class="hvr-shutter-out-verticall">Voir plus</a>
                         </div>
                     </li><!-- /End Slide 2 -->
                 </ul>
@@ -690,7 +690,7 @@
                         <div class="wrap-row">
                             <p id="wrapperTitle">INSERER TEXTE ICI</p>
                             <span id="wrapperText">INSERER TEXTE ICI</span>
-                            <a class="themesflat-btn hvr-shutter-out-verticallll" href="contact.php" id="buttonContact">Nous
+                            <a class="themesflat-btn hvr-shutter-out-verticallll" href="{{ route('contact') }}" id="buttonContact">Nous
                                 contacter</a>
                         </div>
                     </div>

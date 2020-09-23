@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="" />
+    <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/article.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -17,6 +23,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +134,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hp0Lhnl5TJ5TDjWyKPboAfVg3n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -166,7 +176,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600692672431</updated>
-      <workItem from="1600692673619" duration="30202000" />
+      <workItem from="1600692673619" duration="31424000" />
+      <workItem from="1600844618466" duration="828000" />
     </task>
     <servers />
   </component>
@@ -178,10 +189,14 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="714" y="-719" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600699017728" />
-    <state x="829" y="-659" width="262" height="269" key="Github.ShareDialog" timestamp="1600788757108">
+    <state x="829" y="-659" width="262" height="269" key="Github.ShareDialog" timestamp="1600788796226">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="829" y="-659" width="262" height="269" key="Github.ShareDialog/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600788757108" />
+    <state x="829" y="-659" width="262" height="269" key="Github.ShareDialog/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600788796226" />
+    <state x="733" y="-939" key="Github.UntrackedFilesDialog" timestamp="1600788810812">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="733" y="-939" key="Github.UntrackedFilesDialog/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600788810812" />
     <state x="794" y="-641" key="NewPhpFileDialog" timestamp="1600692976052">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
@@ -198,10 +213,10 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="188" y="-843" width="583" height="566" key="find.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600762233054" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1600778868668">
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1600844792411">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600778868668" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600844792411" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
