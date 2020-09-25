@@ -65,6 +65,11 @@
                                     <a id="exportMenuPage" class="{{ Request::path() == 'export' ? 'flat-active' : '' }}" href="{{ route('export') }}" rel="bookmark">Export</a>
                                 </h6>
                             </li>
+                            <li>
+                                <h6 class="heading">
+                                    <a id="combustionMenuPage" class="{{ Request::path() == 'combustion' ? 'flat-active' : '' }}" href="{{ route('combustion') }}" rel="bookmark">Combustion</a>
+                                </h6>
+                            </li>
                         </ul>
                     </div>
                     <div class="widget widget-banner">

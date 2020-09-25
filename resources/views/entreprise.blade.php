@@ -255,7 +255,7 @@
                                     <li id="operationItem1"><i class="fa fa-check"></i>Maintenance préventive et
                                         curative
                                     </li>
-                                    <li id="operationItem2"><i class="fa fa-check"></i>Réparation et <rénovation></rénovation></li>
+                                    <li id="operationItem2"><i class="fa fa-check"></i>Réparation et rénovation</li>
                                     <li id="operationItem3"><i class="fa fa-check"></i>Travaux neufs</li>
                                     <li id="operationItem4"><i class="fa fa-check"></i>Supervision</li>
                                     <li id="operationItem5"><i class="fa fa-check"></i>Expertise</li>

@@ -76,6 +76,14 @@ Route::get('/cimenterie', function (){
     return view('activity.cimenterie');
 })->name('cimenterie');
 
+Route::get('/combustion', function (){
+    return view('activity.combustion');
+})->name('combustion');
+
+Route::get('/energie', function (){
+    return view('activity.combustion');
+})->name('combustion');
+
 Route::get('/damkaloc', function (){
     return view('damkaloc');
 })->name('damkaloc');
