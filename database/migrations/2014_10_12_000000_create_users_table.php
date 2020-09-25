@@ -31,6 +31,13 @@ class CreateUsersTable extends Migration
         $user->email_verified_at = time();
         $user->password = Hash::make("123456789");
         $user->save();
+
+        $user1 = new User();
+        $user1->name = "Admin";
+        $user1->email = "damrys@damrys.fr";
+        $user1->email_verified_at = time();
+        $user1->password = Hash::make("Damrys@44350");
+        $user1->save();
     }
 
     /**
