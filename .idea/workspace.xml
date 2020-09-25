@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/cimenterie/cimenterie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cimenterie/cimenterie2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/combustion/combustion.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/combustion/schema.PNG" afterDir="false" />
+    <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="g ajouté d truc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,11 +225,30 @@
       <option name="project" value="LOCAL" />
       <updated>1601036635861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="g ajouté d truc">
+      <created>1601039192255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601039192255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="g ajouté article.blade.php" />
@@ -258,10 +293,11 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600961448541" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601036640214">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601039213992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="-832" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601019439486" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601039213992" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601036640214" />
     <state x="123" y="-946" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601027153801">
       <screen x="0" y="-1080" width="1920" height="1040" />
@@ -275,10 +311,11 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="188" y="-843" width="583" height="566" key="find.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601026409121" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1600962189615">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601039362684">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600962189615" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601039362684" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

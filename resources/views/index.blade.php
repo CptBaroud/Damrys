@@ -401,7 +401,7 @@
                                     <div class="overlay"></div>
                                 </div>
                                 <div class="icon-wrap">
-                                    <i class="icon-industry"> </i>
+                                    <i class="icon-factory"> </i>
                                 </div>
                             </div>
                             <div class="content-post">
@@ -419,7 +419,7 @@
                                     <div class="overlay"></div>
                                 </div>
                                 <div class="icon-wrap">
-                                    <i class="icon-industry"> </i>
+                                    <i class="icon-factory-3"> </i>
                                 </div>
                             </div>
                             <div class="content-post">
@@ -442,6 +442,24 @@
                             </div>
                             <div class="content-post">
                                 <h3><a href="{{ route('demolition') }}" id="serviceItem8">Démolitions</a></h3>
+                                <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
+                                                                    <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-12">
+                        <article class="post post-wrap">
+                            <div class="featured-post">
+                                <div class="post-img">
+                                    <img src="{{ asset('images/combustion/combustion.png') }}" alt="image">
+                                    <div class="overlay"></div>
+                                </div>
+                                <div class="icon-wrap">
+                                    <i class="icon-factory-4"> </i>
+                                </div>
+                            </div>
+                            <div class="content-post">
+                                <h3><a href="{{ route('combustion') }}" id="serviceItem8">Combustion</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
