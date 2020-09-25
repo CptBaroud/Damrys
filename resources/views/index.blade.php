@@ -279,7 +279,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="raffinerie.php" id="serviceItem1">Raffinerie ...</a></h3>
+                                <h3><a href="{{ route('raffinerie') }}" id="serviceItem1">Raffinerie ...</a></h3>
                                 <!--<p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -297,7 +297,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="nucleaire.php" id="serviceItem2">Nucléaire</a></h3>
+                                <h3><a href="{{ route('nucleaire') }}" id="serviceItem2">Nucléaire</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -315,7 +315,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="fonderie.php" id="serviceItem3">Fonderie</a></h3>
+                                <h3><a href="{{ route('fonderie') }}" id="serviceItem3">Fonderie</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -333,7 +333,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="cremation.php" id="serviceItem4">Crémation</a></h3>
+                                <h3><a href="{{ route('cremation') }}" id="serviceItem4">Crémation</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -351,7 +351,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="chaudiere.php" id="serviceItem5">Chaudière</a></h3>
+                                <h3><a href="{{ route('chaudiere') }}" id="serviceItem5">Chaudière</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -369,7 +369,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="cimenterie.php" id="serviceItem6">Cimenterie</a></h3>
+                                <h3><a href="{{ route('cimenterie') }}" id="serviceItem6">Cimenterie</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -387,7 +387,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="incineration.php" id="serviceItem7">Incinération</a></h3>
+                                <h3><a href="{{ route('incineration') }}" id="serviceItem7">Incinération</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -405,7 +405,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="chemine.php" id="serviceItem8">Cheminée</a></h3>
+                                <h3><a href="{{ route('cheminee') }}" id="serviceItem8">Cheminée</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -415,7 +415,7 @@
                         <article class="post post-wrap">
                             <div class="featured-post">
                                 <div class="post-img">
-                                    <img src="{{ asset('images/cheminee-370x281.jpg') }}" alt="image">
+                                    <img src="{{ asset('images/export/export.jpeg') }}" alt="image">
                                     <div class="overlay"></div>
                                 </div>
                                 <div class="icon-wrap">
@@ -423,7 +423,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="chemine.php" id="serviceItem8">Cheminée</a></h3>
+                                <h3><a href="{{ route('export') }}" id="serviceItem8">Export</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -433,7 +433,7 @@
                         <article class="post post-wrap">
                             <div class="featured-post">
                                 <div class="post-img">
-                                    <img src="{{ asset('images/cheminee-370x281.jpg') }}" alt="image">
+                                    <img src="{{ asset('images/demolition/demolition.jpg') }}" alt="image">
                                     <div class="overlay"></div>
                                 </div>
                                 <div class="icon-wrap">
@@ -441,7 +441,7 @@
                                 </div>
                             </div>
                             <div class="content-post">
-                                <h3><a href="chemine.php" id="serviceItem8">Cheminée</a></h3>
+                                <h3><a href="{{ route('demolition') }}" id="serviceItem8">Démolitions</a></h3>
                                 <!--                                    <p>Ut confessisque appellant discrimen fateri regale textrini textam Tyrii et est autem inductus scriptae ministris.</p>
                                                                     <h4 class="box-line"><a href="#">En savoir plus</a><span class="line"></span></h4>-->
                             </div>
@@ -659,7 +659,7 @@
                         </li>
                     </ul>
                 </div>
-                <a class="themesflat-btn hvr-shutter-out-verticallll" href="savoirFaire.php" id="buttonSavoirFaire">En
+                <a class="themesflat-btn hvr-shutter-out-verticallll" href="{{ route('savoirFaire') }}" id="buttonSavoirFaire">En
                     savoir plus</a>
             </div>
             <div class="image-why-choose">

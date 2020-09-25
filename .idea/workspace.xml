@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/blog/article.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/demolition/demolition.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/export/export.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/damkaloc.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/activity/demolition.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/demolition.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -142,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhpstormProjects/ticketApp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -177,18 +182,45 @@
       <option name="presentableId" value="Default" />
       <updated>1600692672431</updated>
       <workItem from="1600692673619" duration="31424000" />
-      <workItem from="1600844618466" duration="828000" />
+      <workItem from="1600844618466" duration="1705000" />
+      <workItem from="1600850504473" duration="3190000" />
+      <workItem from="1600956025893" duration="5582000" />
+      <workItem from="1601018944673" duration="250000" />
     </task>
+    <task id="LOCAL-00001" summary="g ajouté article.blade.php">
+      <created>1600845573562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600845573562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="g ajouté article.blade.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="g ajouté article.blade.php" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="-920" key="#Plugins" timestamp="1600955745174">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="552" y="-920" key="#Plugins/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600955745174" />
     <state x="714" y="-719" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600699017728">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="714" y="-719" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600699017728" />
+    <state x="583" y="-1079" key="CommitChangelistDialog2" timestamp="1600845572613">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="583" y="-1079" key="CommitChangelistDialog2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600845572613" />
+    <state x="740" y="-806" key="FileChooserDialogImpl" timestamp="1600850527985">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="740" y="-806" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600850527985" />
     <state x="829" y="-659" width="262" height="269" key="Github.ShareDialog" timestamp="1600788796226">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
@@ -205,18 +237,30 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="461" y="-916" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600788787018" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600961448541">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600961448541" />
+    <state x="552" y="-832" key="Vcs.Push.Dialog.v2" timestamp="1600845580000">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="552" y="-832" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600845580000" />
     <state x="123" y="-946" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600778278743">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="123" y="-946" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600778278743" />
-    <state x="188" y="-843" width="583" height="566" key="find.popup" timestamp="1600762233054">
+    <state x="777" y="-651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600955525166">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="188" y="-843" width="583" height="566" key="find.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600762233054" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1600844792411">
+    <state x="777" y="-651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600955525166" />
+    <state x="188" y="-843" width="583" height="566" key="find.popup" timestamp="1600956592361">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600844792411" />
+    <state x="188" y="-843" width="583" height="566" key="find.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600956592361" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1600962189615">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600962189615" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -230,6 +274,16 @@
           <url>file://$PROJECT_DIR$/resources/views/activity/export.blade.php</url>
           <line>23</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/index.blade.php</url>
+          <line>424</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/damkaloc.blade.php</url>
+          <line>74</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

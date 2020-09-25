@@ -76,6 +76,10 @@ Route::get('/cimenterie', function (){
     return view('activity.cimenterie');
 })->name('cimenterie');
 
+Route::get('/damkaloc', function (){
+    return view('damkaloc');
+})->name('damkaloc');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

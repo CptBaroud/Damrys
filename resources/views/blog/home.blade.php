@@ -93,28 +93,6 @@
                 </div>-->
             </div>
         </div>
-        <div class="blog-pagination">
-            <ul>
-                <li>
-                    <a href="#"><i class="fas fa-angle-left" aria-hidden="true"></i></a>
-                </li>
-                <li class="active">
-                    <a href="#">01</a>
-                </li>
-                <li>
-                    <a href="#">02</a>
-                </li>
-                <li>
-                    <a href="#">03</a>
-                </li>
-                <li>
-                    <a href="#">05</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fas fa-angle-right" aria-hidden="true"></i></a>
-                </li>
-            </ul>
-        </div>
     </div>
 </div>
 @endsection

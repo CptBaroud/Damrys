@@ -201,6 +201,9 @@
                                         <li id="actualite">
                                             <a href="{{ route('blogHome') }}" title="" id="exportLink">Actualitées</a>
                                         </li>
+                                        <li id="actualite">
+                                            <a href="{{ route('damkaloc') }}" title="" id="exportLink">Damkaloc</a>
+                                        </li>
                                         <li id="contact">
                                             <a href="{{ route('contact') }}" title="" id="contactLink">Contact</a>
                                         </li>
