@@ -261,7 +261,7 @@
                     <div class="widget widget-contact widget-menu">
                         <h2 id="contactTitleFooter">Contact</h2>
                         <ul>
-                            <li><a id="addressContentFooter">1 rue René Panhard <br> 44360 Vigneux-de-Bretagne</a></li>
+                            <li><a id="addressContentFooter">1 rue René Panhard <br> 44360 Vigneux-de-Bretagne <br> ZA de la Biliais Deniaud </a></li>
                             <li><a>damrys@damrys.fr</a></li>
                             <li><a id="phoneContentFooter">02 40 67 18 53</a></li>
                         </ul>
@@ -280,9 +280,14 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="widget widget-blog widget-menu">
-                        <h2 class='titre-localiser-footer' id="locationFooter">Nous localiser</h2>
-                        <div id="map"></div>
+                    <div class="widget widget-links widget-menu">
+                        <h2 id=""> </h2>
+                        <br>
+                        <ul>
+                            <li><a id="addressContentFooter2">7 rue Léon Blum <br>76530 Grand-Couronne</a></li>
+                            <li><a>damrys@damrys.fr</a></li>
+                            <li><a id="phoneContentFooter2">02 35 68 33 33</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>

@@ -30,8 +30,7 @@
                             <div class="image-title">
                                 <img src="{{ asset('images/logo-damrys.png') }}" alt="image">
                             </div>
-                            <h4 id="contactSecondTitle">CONTACTEZ NOUS</h4>
-                            <h1 id="contactTitle">INSERER TEXTE ICI</h1>
+                            <h1 id="contactTitle">Contactez nous</h1>
                         </div>
                         <div class="spacer" data-desktop_height="47" data-mobile_height="40" data-smobile_height="40"></div>
                         <div class="form-submit">

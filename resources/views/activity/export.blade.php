@@ -26,7 +26,7 @@
             <article class="post post-wrap">
                 <div class="featured-post">
                     <div class="post-img">
-                        <img src="{{ asset('images/page/incineration/INCINERATION11.jpg') }}" alt="image">
+                        <img src="{{ asset('images/export/export.jpeg') }}" alt="image">
                         <!--<div class="overlay"></div>-->
                     </div>
                     <div class="icon-wrap">

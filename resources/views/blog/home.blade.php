@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('title')
-<title id="pageTitle">Cheminée | Damrys</title>
+<title id="pageTitle">Actualitées | Damrys</title>
 @endsection
 
 @section('content')
@@ -44,7 +44,7 @@
 
                         <h3 class="post-title"><a href="{{route('blogArticle', $blog->id)}}">{{$blog->title}}</a></h3>
                         <div class="wrap-content-post">
-                            <p><?php echo nl2br($blog->content) ?></p>
+                            <p><?php echo nl2br(substr($blog->content, 0, 100)) ?></p>
                         </div>
                         <div class="wrap-btn"><a class="flat-btn btn-blog hvr-shutter-out-vertical" href="{{route('blogArticle', $blog->id)}}" rel="nofollow">En savoir plus</a></div>
                     </div>
@@ -54,8 +54,26 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12">
                 @if(Auth::check())
-                <a href="{{route('blogAdd')}}">Ajouter un article</a>
+                <a class="send-button submit hvr-shutter-out-verticall" href="{{route('blogAdd')}}">Ajouter un article</a>
                 @endif
+                <div class="sidebar-inner">
+                        <div class="widget widget-recent">
+                            <h3 class="widget-title">Actualités récentes</h3>
+                            <ul>
+                                @foreach($recent_blogs as $recent_blog)
+                                    <li class="clearfix">
+                                        <div class="widget-img">
+                                            <img style="width:61px;" src="{{ asset($recent_blog->path) }}" alt="image">
+                                        </div>
+                                        <div class="widget-text">
+                                            <h3><a href="{{route('blogArticle', $recent_blog->id)}}">06 April, 2019</a></h3>
+                                            <p>{{$recent_blog->title}}</p>
+                                        </div>
+                                    </li>
+                                @endforeach
+                            </ul>
+                        </div>
+                    </div>
                 <div class="spacer" data-desktop_height="0" data-mobile_height="50" data-smobile_height="0" style="height: 0;"></div>
                 <!--<div class="sidebar-inner">
                     <div class="widget widget-recent">

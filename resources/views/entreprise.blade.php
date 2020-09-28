@@ -59,7 +59,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-paddingleft="['3','3','3','3']"
-                             data-responsive_offset="on">Inserer texte ici
+                             data-responsive_offset="on">
                         </div>
 
                         <div class="tp-caption tp-resizeme font-rubik font-weight-700 best creative slider2"
@@ -151,7 +151,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-paddingleft="['3','3','3','3']"
-                             data-responsive_offset="on">Inserer texte ici
+                             data-responsive_offset="on">
                         </div>
 
                         <div class="tp-caption tp-resizeme font-rubik font-weight-700 best creative slider2"
@@ -292,19 +292,16 @@
                                 </div><!-- /.imagebox-image -->
 
                                 <div class="imagebox-title">
-                                    <h2><a href="#" title="" id="serviceTitle1">Des Ingénieurs</a></h2>
+                                    <h2><a title="" id="serviceTitle1">Des Ingénieurs</a></h2>
                                 </div><!-- /.iamgebox-title -->
                                 <div class="imagebox-content">
                                     <div class="imagebox-heading">
-                                        <h3 id="serviceContentTitle1"><a href="">INSERER TITRE ICI !</a></h3>
+                                        <h3 id="serviceContentTitle1">Des Ingénieurs</h3>
                                     </div>
                                     <div class="imagebox-desc">
-                                        <p id="serviceContentText1">INSERER TEXTE ICI</p>
+                                        <p id="serviceContentText1">Compétents et à l'ecoute</p>
                                     </div>
-                                    <div class="imagebox-button">
-                                        <h2 class="box-line" id="readMore"><a href="#">READ MORE</a><span
-                                                class="line"></span></h2>
-                                    </div>
+
                                 </div><!-- /.imagebox-content -->
                             </div><!-- /.imagebox -->
                         </div>
@@ -324,15 +321,12 @@
                                 </div><!-- /.iamgebox-title -->
                                 <div class="imagebox-content">
                                     <div class="imagebox-heading">
-                                        <h3 id="serviceContentTitle2"><a href="">INSERER TITRE ICI !</a></h3>
+                                        <h3 id="serviceContentTitle2">Des techniciens de chantiers</h3>
                                     </div>
                                     <div class="imagebox-desc">
-                                        <p id="serviceContentText2">INSERER TEXTE ICI</p>
+                                        <p id="serviceContentText2">Qualifiés et chevronés</p>
                                     </div>
-                                    <div class="imagebox-button">
-                                        <h2 class="box-line" id="readMore"><a href="#">READ MORE</a><span
-                                                class="line"></span></h2>
-                                    </div>
+
                                 </div><!-- /.imagebox-content -->
                             </div><!-- /.imagebox -->
                         </div>
@@ -353,15 +347,12 @@
                                 </div><!-- /.iamgebox-title -->
                                 <div class="imagebox-content">
                                     <div class="imagebox-heading">
-                                        <h3 id="serviceContentTitle3"><a href="">INSERER TITRE ICI !</a></h3>
+                                        <h3 id="serviceContentTitle3">Des techniciens de sécurité</h3>
                                     </div>
                                     <div class="imagebox-desc">
-                                        <p id="serviceContentText3">INSERER TEXTE ICI</p>
+                                        <p id="serviceContentText3">Avertis et performants</p>
                                     </div>
-                                    <div class="imagebox-button">
-                                        <h2 class="box-line" id="readMore"><a href="#">READ MORE</a><span
-                                                class="line"></span></h2>
-                                    </div>
+
                                 </div><!-- /.imagebox-content -->
                             </div><!-- /.imagebox -->
                         </div>
@@ -382,15 +373,12 @@
                                 </div><!-- /.iamgebox-title -->
                                 <div class="imagebox-content">
                                     <div class="imagebox-heading">
-                                        <h3 id="serviceContentTitle4"><a href="">INSERER TITRE ICI !</a></h3>
+                                        <h3 id="serviceContentTitle4">Des chefs de chantier</h3>
                                     </div>
                                     <div class="imagebox-desc">
-                                        <p id="serviceContentText4">INSERER TEXTE ICI</p>
+                                        <p id="serviceContentText4">Compétents et avec un savoir-faire unique</p>
                                     </div>
-                                    <div class="imagebox-button">
-                                        <h2 class="box-line" id="readMore"><a href="#">READ MORE</a><span
-                                                class="line"></span></h2>
-                                    </div>
+
                                 </div><!-- /.imagebox-content -->
                             </div><!-- /.imagebox -->
                         </div>
@@ -411,14 +399,10 @@
                                 </div><!-- /.iamgebox-title -->
                                 <div class="imagebox-content">
                                     <div class="imagebox-heading">
-                                        <h3 id="serviceContentTitle5"><a href="">INSERER TITRE ICI !</a></h3>
+                                        <h3 id="serviceContentTitle5">Des ouvriers qualifés</h3>
                                     </div>
                                     <div class="imagebox-desc">
-                                        <p id="serviceContentText5">INSERER TEXTE ICI</p>
-                                    </div>
-                                    <div class="imagebox-button">
-                                        <h2 class="box-line" id="readMore"><a href="#">READ MORE</a><span
-                                                class="line"></span></h2>
+                                        <p id="serviceContentText5">Qualifiés et performants</p>
                                     </div>
                                 </div><!-- /.imagebox-content -->
                             </div><!-- /.imagebox -->

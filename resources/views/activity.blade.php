@@ -72,27 +72,27 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="widget widget-banner">
+                    <!--<div class="widget widget-banner">
                         <div class="textwidget">
                             <p><img src="{{ asset('images/services/banner-service.jpg') }}" alt="banner-service">
                                 <span class="text" id="bannerServices">INSERER TEXTE ICI</span></p>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="sidebar-wrap sidebar">
                         <div class="spacer" data-desktop_height="30" data-mobile_height="30" data-smobile_height="30"></div>
                         <div class="widget-need-help">
                             <h4 class="heading" id="helpTitle">Besoin d'aide</h4>
-                            <p id="textHelp">INSERER TEXTE ICI</p>
+                            <p id="textHelp">Contactez nous</p>
                             <p><a href="#">02 40 67 18 53</a></p>
                         </div>
                         <div class="spacer" data-desktop_height="30" data-mobile_height="30" data-smobile_height="30"></div>
                         <div class="widget widget-text">
-                            <a href="#" class="download hvr-shutter-out-verticall" id="buttonMaseDl">Téléchargez le
+                            <a href="http://mase-asso.fr/" target="_blank" class="download hvr-shutter-out-verticall" id="buttonMaseDl">Téléchargez le
                                 certificat MASE</a>
                         </div>
                         <div class="spacer" data-desktop_height="8" data-mobile_height="8" data-smobile_height="8"></div>
                         <div class="widget widget-text">
-                            <a href="#" class="download bg-green hvr-shutter-out-vertical" id="buttonMoreMase">En savoir +
+                            <a href="http://mase-asso.fr/" target="_blank" class="download bg-green hvr-shutter-out-vertical" id="buttonMoreMase">En savoir +
                                 sur la certification
                                 MASE</a>
                         </div>
@@ -105,7 +105,7 @@
         </div>
     </div>
 
-    <section class="flat-row style2">
+    <!--<section class="flat-row style2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -117,6 +117,6 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 @endsection
 

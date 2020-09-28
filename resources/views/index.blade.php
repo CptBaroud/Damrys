@@ -58,7 +58,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-paddingleft="['3','3','3','3']"
-                             data-responsive_offset="on">Inserer texte ici
+                             data-responsive_offset="on">
                         </div>
 
                         <div class="tp-caption tp-resizeme font-rubik font-weight-700 best creative slider2"
@@ -148,7 +148,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-paddingleft="['3','3','3','3']"
-                             data-responsive_offset="on">Inserer texte ici
+                             data-responsive_offset="on">
                         </div>
 
                         <div class="tp-caption tp-resizeme font-rubik font-weight-700 best creative slider2"
@@ -221,7 +221,8 @@
                                 La fumisterie industrielle au service des principaux secteurs industriels
                             </h4>
                             <h1 id="mainTitle">Entreprise en génie thermique,spécialiste des travaux de fumisterie</h1>
-                            <p class="text" id="mainText">DAMRYS est une entreprise spécialisée en génie thermique au service des
+                            <p class="text" id="mainText">DAMRYS est une entreprise spécialisée en génie thermique au
+                                service des
                                 principaux secteurs
                                 industriels :
 
@@ -232,9 +233,16 @@
                                 Fonderie,
                                 Energie,
                                 Nucléaire,
-                                Cheminée ... <br><br>
+                                Cheminée ... dont Le cœur de
+                                métier est le garnissage réfractaire.<br><br>
 
-                                Entreprise en Génie Thermique nous possédons la certification MASE; gage de notre
+                                Au fil du temps, les demandes de nos clients nous ont permis de développer des activités
+                                connexes
+                                pour leur offrir des prestations clés en main allant au-delà de la maintenance
+                                industrielle. <br><br>
+
+                                Entreprise en Génie Thermique nous possédons la certification <a href="#secondTitle">MASE</a>;
+                                gage de notre
                                 implication dans le management de la qualité et de la sécurité.
                             </p>
                             <div class="info-inner">
@@ -249,7 +257,7 @@
                                 </ul>
                             </div>
                             <div class="info-button">
-                                <a href="savoirFaire.php" class=" hvr-shutter-out-verticall" id="operationMore">En savoir
+                                <a href="{{ route('savoirFaire') }}" class=" hvr-shutter-out-verticall" id="operationMore">En savoir
                                     plus</a>
                             </div>
                         </div>
@@ -469,7 +477,7 @@
             </div>
         </section>
 
-        <section class="flat-section">
+        <!--<section class="flat-section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -482,9 +490,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
 
-        <section class="flat-sections clearfix">
+        <!--<section class="flat-sections clearfix">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-12">
@@ -509,7 +517,7 @@
                 </div>
             </div>
 
-        </section>
+        </section>-->
 
         <section class="flat-number-speak">
             <div class="spacer" data-desktop_height="115" data-mobile_height="100" data-smobile_height="100"></div>
@@ -553,7 +561,7 @@
                                                 <div class="numb-count numb" data-from="0" data-to="20" data-speed="2000"
                                                      data-inviewport="yes">20
                                                 </div>
-                                                <div class="name-count" id="numberYear">K€ de chiffres d'Affaire</div>
+                                                <div class="name-count" id="numberYear">K€ de chiffre d'Affaire</div>
                                             </div>
                                         </div>
                                     </li>
@@ -566,7 +574,7 @@
             <div class="spacer" data-desktop_height="107" data-mobile_height="100" data-smobile_height="100"></div>
         </section>
 
-        <section class="flat-testimonials">
+        <!--<section class="flat-testimonials">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -648,11 +656,11 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
 
         <div class="spacer" data-desktop_height="50" data-mobile_height="0" data-smobile_height="0"></div>
 
-        <section class="flat-why-choose bg_f2f3f5 clearfix">
+        <!---<section class="flat-why-choose bg_f2f3f5 clearfix">
             <div class="text-why-choose">
                 <div class="title-section style2">
                     <div class="image-title">
@@ -715,5 +723,5 @@
                 </div>
             </div>
         </section>
-    </div>
+    </div>-->
 @endsection

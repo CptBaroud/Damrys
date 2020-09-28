@@ -10,7 +10,7 @@
         <div class="container wrap-page-title">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index.php" id="title">ACCUEIL</a></li>
+                    <li><a href="{{ route('home') }}" id="title">ACCUEIL</a></li>
                     <li><a href="{{ route('blogHome') }}" id="title2">ACTUALITE</a></li>
                 </ul>
             </div>
@@ -28,16 +28,11 @@
                              data-smobile_height="100"></div>
                         <div class="spacer" data-desktop_height="47" data-mobile_height="40" data-smobile_height="40"></div>
                         <div class="form-submit">
-                            <form class="comment-form" id="contact_form" method="post" action="{{route('blogAddPost')}}" enctype="multipart/form-data"> 
+                            <form class="comment-form" id="contact_form" method="post" action="{{route('blogAddPost')}}" enctype="multipart/form-data">
                                 @csrf
                                 <p class="comment-form-author">
                                     <!-- <label>Name *</label> -->
                                     <input id="contact_name" name="title" type="text" placeholder="Nom de l'article"
-                                           required="required">
-                                </p>
-                                <p class="comment-form-author">
-                                    <!-- <label>Name *</label> -->
-                                    <input name="image" type="file" accept=".png,.jpeg,.jpg"
                                            required="required">
                                 </p>
                                 <div class="clearfix"></div>
@@ -45,8 +40,14 @@
                                     <!-- <label>Comment</label>  -->
                                     <textarea id="contact_message" name="content" placeholder="Corps de l'article"  required="required"></textarea>
                                 </p>
-                                <p class="submit-form">
-                                    <button type="submit" class="submit hvr-shutter-out-verticall" id="buttonContactSend">
+                                <p class="comment-form-author">
+                                    <!-- <label>Name *</label> -->
+                                    <input class="" name="image" type="file" accept=".png,.jpeg,.jpg"
+                                           required="required">
+                                </p>
+                                <div class="clearfix"></div>
+                                <p class="submit-form" style="margin: 5px 0 0 5px">
+                                    <button type="submit" class="send-button submit hvr-shutter-out-verticall" id="buttonContactSend">
                                         Ajouter
                                     </button>
                                 </p>

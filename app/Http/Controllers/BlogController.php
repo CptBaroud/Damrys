@@ -11,13 +11,14 @@ class BlogController extends Controller
 
     public function home(){
         $blogs = Blog::get()->all();
-        return view('blog.home')->with('blogs', $blogs);
+        $recent_blogs = Blog::take(3)->get()->all();
+        return view('blog.home')->with('blogs', $blogs)->with('recent_blogs', $recent_blogs);
     }
 
     public function add(){
         return view('blog.add');
     }
-    
+
     public function add_post(Request $request){
 
         $name = $request->image->getClientOriginalName();
@@ -38,7 +39,7 @@ class BlogController extends Controller
         $blog = Blog::find($id);
         return view('blog.edit')->with('blog', $blog);
     }
-    
+
     public function edit_post($id, Request $request){
 
         $blog = Blog::find($id);
