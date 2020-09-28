@@ -9,7 +9,7 @@
         <div class="container wrap-page-title">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index.php" id="title">ACCUEIL</a></li>
+                    <li><a href="{{ route('home') }}" id="title">ACCUEIL</a></li>
                     <li><a href="#" id="title2">RAFFINERIE, CHIMIE, PÉTROCHIMIE</a></li>
                 </ul>
             </div>

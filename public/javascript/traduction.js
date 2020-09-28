@@ -77,9 +77,7 @@ function trad(cookies, page) {
             menu = langEN['menu'];
         }
     } else {
-        lang = langFR[page];
-        footer = langFR['footer'];
-        menu = langFR['menu'];
+       console.log('On passe en fr')
     }
 
     for (let key in lang) {

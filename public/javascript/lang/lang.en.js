@@ -11,9 +11,11 @@ let langEN = {
         cementFooter: "Cement",
         nuclearFooter: "Nuclear",
         chimneyFooter: "Chimney",
-        locationFooter: "Location ",
+        activityFooter: "Our Activity",
         addressContentFooter: "1 Rue René Panhard 44360 Vigneux-de-Bretagne, France",
         phoneContentFooter: "(+33)2 40 67 18 53",
+        addressContentFooter2: "7 rue Léon Blum 76530 Grand-Couronne, France",
+        phoneContentFooter2: "(+33)2 35 68 33 33",
         legalMentionFooter: "Legal mention"
     },
     menu: {
@@ -30,6 +32,7 @@ let langEN = {
         chemineeLink: "Chimney",
         contactLink: "Contact",
         demolitionLink: "Demolition",
+        actualityLink: 'Actuality',
         headerMailTitle: "MAIL",
         headerPhoneTitle: "PHONE",
         headerPhoneContent: "(+33)2 40 67 18 53",
@@ -39,19 +42,21 @@ let langEN = {
         headerAdressContent2: "7 rue Léon Blum - 76530 Grand-Couronne, France",
         langueMenu: "Lang"
     },
-    index: {
+    home: {
         pageTitle: "Home | Damrys",
         mainTitle: "Thermal engineering company, specializing in the work of fumigation.",
         secondTitle: "Industrial fumigation at the service of the main industrial sectors",
-        mainText: "DAMRYS is a company specialized in thermal engineering serving the main industrial sectors: Refinery, Petrochemicals, Chemistry, Incineration: household, hospital and industrial waste, animal carcass Cremation, Cement, Foundry, Energy, Nuclear, Chimney ...\n" +
+        mainText: "DAMRYS is a company specialized in thermal engineering serving the main industrial sectors: Refinery, Petrochemicals, Chemistry, Incineration: household, hospital and industrial waste, animal carcass, Cremation, Cement, Foundry, Energy, Nuclear, Chimney ... whose core business is refractory lining.\n" +
+            "\n" +
+            "Over time, our customers' requests have enabled us to develop related activities to offer them turnkey services that go beyond industrial maintenance. \n" +
             "\n" +
             "As a company in Thermal Engineering, we have MASE certification, a guarantee of our involvement in quality and safety management.",
         operationTitle: "We intervene for the operations of : ",
-        operationItem1 : "Preventive and curative maintenance",
-        operationItem2 : "Repair and renovation",
-        operationItem3 : "New construction",
-        operationItem4 : "Supervision",
-        operationItem5 : "Expertise",
+        operationItem1: "Preventive and curative maintenance",
+        operationItem2: "Repair and renovation",
+        operationItem3: "New construction",
+        operationItem4: "Supervision",
+        operationItem5: "Expertise",
         operationMore: "See More",
         serviceTitle: "OUR SERVICES",
         serviceItem1: "Refinery ...",
@@ -62,34 +67,11 @@ let langEN = {
         serviceItem6: "Cement",
         serviceItem7: "Incineration",
         serviceItem8: "Chimney",
-        placeHolder1: "INSERT TEXT HERE",
-        placeHolder2: "INSERT TEXT HERE",
         numberTitle: "Some numbers",
         numberText: "Key numbers",
         numberClient: "Agency in France",
         numberPartner: "Years of existence",
-        numberYear: "K€ Of turnover",
-        testimonialTitle: "TESTIMONIALS",
-        testimonialSubTtile: "Our clients",
-        testimonialsRole1: "DIRECTOR",
-        testimonialsText1: "INSERT TEXT HERE",
-        testimonialsRole2: "DIRECTOR",
-        testimonialsText2: "INSERT TEXT HERE",
-        testimonialsRole3: "DIRECTOR",
-        testimonialsText3: "INSERT TEXT HERE",
-        choseTitle: "WHY CHOOSE US",
-        choseSubTitle: "INSERT TEXTE HERE",
-        choseItem1: "01",
-        choseItemSpan1: "INSERT A TEXT HERE",
-        choseItem2: "01",
-        choseItemSpan2: "INSERT A TEXT HERE",
-        choseItem3: "01",
-        choseItemSpan3: "INSERT A TEXT HERE",
-        textInfo: "INSERT A TEXT HERE",
-        wrapperTitle: "INSERT A TEXT HERE",
-        wrapperText: "INSERT A TEXT HERE",
-        buttonContact: "Contact us",
-        buttonSavoirFaire: "See more"
+        numberYear: "K€ Of turnover"
     },
     entreprise: {
         pageTitle: "Company | Damrys",
@@ -109,20 +91,20 @@ let langEN = {
         serviceSecondTitle: "More than 30 years of experience",
         serviceMainTitle: "Our skills",
         serviceTitle1: "Engineer",
-        serviceContentTitle1: "INSERT TITLE HERE",
-        serviceContentText1: "INSERT TEXT HERE",
+        serviceContentTitle1: "Engineer",
+        serviceContentText1: "Competent and Listening",
         serviceTitle2: "Site technicians",
-        serviceContentTitle2: "INSERT TITLE HERE",
-        serviceContentText2: "INSERT TEXT HERE",
+        serviceContentTitle2: "Site technicians",
+        serviceContentText2: "Qualified and experienced",
         serviceTitle3: "Security technicians",
-        serviceContentTitle3: "INSERT TITLE HERE",
-        serviceContentText3: "INSERT TEXT HERE",
+        serviceContentTitle3: "Security technicians",
+        serviceContentText3: "Avertis et performants",
         serviceTitle4: "Site managers",
-        serviceContentTitle4: "INSERT TITLE HERE",
-        serviceContentText4: "INSERT TEXT HERE",
+        serviceContentTitle4: "Site managers",
+        serviceContentText4: "Competent and with a unique know-how",
         serviceTitle5: "Skilled workers",
-        serviceContentTitle5: "INSERT TITLE HERE",
-        serviceContentText5: "INSERT TEXT HERE",
+        serviceContentText5: "Qualified and efficientf",
+        serviceContentTitle5: "Skilled workers",
         placeHolder1: "A mobile company",
         placeHolder2: "Possibility of intervention everywhere in France and abroad",
         whyChooseTitle: "WHY CHOOSE US",
@@ -130,9 +112,7 @@ let langEN = {
         whyChooseItem2: "Material",
         whyChooseItem3: "Logistics",
         whyChooseText: "This supervision will enable you to be advised as closely as possible to your expectations both from a technical and organisational point of view.",
-        contactSubTitle: "INSERT TITLE HERE",
-        contactTitle: "Contact us",
-        buttonContact: "Contact us"
+        contactTitle: "Contact us"
     },
     savoirFaire: {
         pageTitle: "Our expertise | Damrys",
@@ -158,22 +138,22 @@ let langEN = {
         title6: "Logistics and transport",
         text6: "We provide you with the equipment, the materials and the men to meet your planning requirements and your intervention deadlines in accordance with your production constraints.",
         contactText: "Damrys",
-        contactTextSpan: "A tailor-made service in thermal engineering",
-        buttonContact: "Contact us"
+        contactTextSpan: "A tailor-made service in thermal engineering"
     },
     contact: {
         pageTitle: "Contact | Damrys",
         title: "HOME",
         title2: "CONTACT",
         title3: "CONTACT",
-        contactSecondTitle: "CONTACT US",
         contactTitle: "Contact us",
         buttonContactSend: "Send",
         contactAdress: "Adress",
         contactAdressContent: "1 Rue René Panhard 44360 Vigneux-de-Bretagne, France",
+        contactAdressContent2: "7 rue Léon Blum 76530 Grand-Couronne, France",
         contactMail: "Mail",
         contactPhone: "Phone",
-        contactPhoneContent: "(+33)2 40 67 18 53"
+        contactPhoneContent: "(+33)2 40 67 18 53",
+        contactPhoneContent2: "(+33)2 35 68 33 33"
     },
     raffinerie: {
         pageTitle: "Refinery, Chemistry, Petrochemistry | Damrys",
@@ -190,7 +170,6 @@ let langEN = {
         title: "HOME",
         title2: "REFINERY, CHEMISTRY, PETROCHEMISTRY",
         title3: "REFINERY, CHEMISTRY, PETROCHEMISTRY",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -206,9 +185,7 @@ let langEN = {
         wrapperTitle: "Our Furnaces type",
         wrapperItem1: "Fluid catalytic cracking unit (FCCU) : catalytic furnaces",
         wrapperItem2: "Sulfur unit",
-        wrapperItem3: "Oils…",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem3: "Oils…"
     },
     fonderie: {
         pageTitle: "Foundry | Damrys",
@@ -225,7 +202,6 @@ let langEN = {
         title: "HOME",
         title2: "FOUNDRY",
         title3: "Foundry",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -245,9 +221,7 @@ let langEN = {
         wrapperItem3: "Junker furnaces…",
         wrapperItem4: "Calmow / Striko furnaces",
         wrapperItem5: "Burners shutters",
-        wrapperItem6: "(Transfer pocket)…",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem6: "(Transfer pocket)…"
     },
     incineration: {
         pageTitle: "Incineration | Damrys",
@@ -264,7 +238,6 @@ let langEN = {
         title: "HOME",
         title2: "INCINERATION",
         title3: "Incineration",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -285,9 +258,7 @@ let langEN = {
         wrapperItem3: "Waste incinerator",
         wrapperItem4: "Hospitals",
         wrapperItem5: "Industrials",
-        wrapperItem6: "Animal caracasses",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem6: "Animal caracasses"
     },
     cremation: {
         pageTitle: "Cremation | Damrys",
@@ -304,7 +275,6 @@ let langEN = {
         title: "HOME",
         title2: "CREMATION",
         title3: "Cremation",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -315,9 +285,7 @@ let langEN = {
             "structure using refractory materials. This particularity of our profession allows us to " +
             "accompany you in the creation and the setting up of those refractory materials",
         addon1: "Briquetting, formwork/pouring, supply of specifics slabs in stock...",
-        wrapperTitle: "Our Furnaces type",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperTitle: "Our Furnaces type"
     },
     chaudiere: {
         pageTitle: "Boiler | Damrys",
@@ -334,7 +302,6 @@ let langEN = {
         title: "HOME",
         title2: "BOILER",
         title3: "Boiler",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -354,9 +321,7 @@ let langEN = {
         wrapperItem2: "Smoke tube boiler",
         wrapperItem3: "Propellant boiler : gas, fuel, timber, coal",
         wrapperItem4: "Biomas boiler",
-        wrapperItem5: "Horizontal or vertical",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem5: "Horizontal or vertical"
     },
     cimenterie: {
         pageTitle: "Cement | Damrys",
@@ -373,7 +338,6 @@ let langEN = {
         title: "HOME",
         title2: "CEMENT",
         title3: "Cement",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -393,9 +357,7 @@ let langEN = {
         wrapperText: "Cylindrical furnaces",
         wrapperItem1: "On dry line",
         wrapperItem2: "Half dry",
-        wrapperItem3: "Wet…",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem3: "Wet…"
     },
     nucleaire: {
         pageTitle: "Nuclear | Damrys",
@@ -412,7 +374,6 @@ let langEN = {
         title: "HOME",
         title2: "NUCLEAR",
         title3: "Nuclear",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -428,9 +389,7 @@ let langEN = {
         addon1: "Vaulted and wall briquetting, formwork, pouring, gunning, damage...",
         wrapperTitle: "Our Furnaces type",
         wrapperItem1: "Waste treatment furnace",
-        wrapperItem2: "Auxiliary boilers…",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem2: "Auxiliary boilers…"
     },
     chemine: {
         pageTitle: "Chimney | Damrys",
@@ -447,7 +406,6 @@ let langEN = {
         title: "HOME",
         title2: "CHIMNEY",
         title3: "Chimney",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -470,9 +428,7 @@ let langEN = {
         wrapperItem3: "Concrete tower",
         wrapperItem4: "Silos",
         wrapperItem5: "Tank",
-        wrapperItem6: "Various reinforced concrete structure...",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        wrapperItem6: "Various reinforced concrete structure..."
     },
     demolition: {
         pageTitle: "Demolition | Damrys",
@@ -489,7 +445,6 @@ let langEN = {
         title: "HOME",
         title2: "DEMOLITION",
         title3: "Demolition",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
@@ -505,9 +460,34 @@ let langEN = {
             "The development of this activity today allows us to have our own equipment with a dedicated site manager and accompanied by a team of qualified and authorised personnel.\n" +
             "<br><br>" +
             "Recognized for our reactivity and our know-how, we have become over time a major player in the field of quality robotized demolition.\n",
-        addon1: "Explore our work",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        addon1: "Explore our work"
+    },
+    damkaloc: {
+        pageTitle: "Damkaloc | Damrys",
+        title: "HOME",
+        title2: "DAMKALOC",
+        title3: "Damkaloc",
+        mainTitle: "The company DAMKALOC was created in the Caribbean in February 2016.",
+        mainText: "by the Directors of the DAMRYS companies" +
+            "and DAMLOC : Pascal MOREAU and Sébastien ROGER and their collaboration and association\n" +
+            "with : Emmanuel LECARDEUR, already established in Guadeloupe for 20 years and having a strong\n" +
+            "experience in the building industry"+
+            "<br><br>"+
+            "DAMKALOC was thus born from the reflection of our two entities DAMRYS : specialist in EngineeringThermal and DAMLOC : specialist in the hiring of TP and BTP equipment which throughof their activities, needs and experiences, discovered and observed,the real advantages brought by DOKA° brand products."+
+            "<br><br>"+
+            "DOKA° being the specialist, the world's leading technician in modular formwork"+
+            "<br><br>"+
+            "DAMKALOC is oriented towards the marketing and rental of modular formworks. to offer you high quality formwork solutions for all areas of thewith the application of the recognized methodology, the DOKA® brand, created by the since 1956."+
+            "<br><br>"+
+            "DAMKALOC is today the exclusive distributor of DOKA° brand products in the United States and the Caribbean."+
+            "<br><br>"+
+            "We offer you a complete service by accompanying you from the very beginning of your projects thanks to the Study, the Analysis and the DOKA° Methodology which allows a true anticipation of your site needs. Formwork systems and component used are thus adapted to each of your projects and meet all your requirements."+
+            "<br><br>"+
+            "Then through the renting and marketing of formwork systems and DOKA° shoring systems adaptable to all sectors of the construction industry: Floors / Sails",
+        operationItem1: "Sale of formwork and consumables",
+        operationItem2: "Capacity of 1200m² of sails and walls and as many floors",
+        secondText: "DAMKALOC accompanies you to build your projects in a more efficient and safer way.",
+        operationMore: 'See more'
     },
     export: {
         pageTitle: "Export | Damrys",
@@ -524,15 +504,29 @@ let langEN = {
         title: "HOME",
         title2: "EXPORT",
         title3: "Export",
-        bannerServices: "INSERT A TEXT HERE",
         helpTitle: "Need help ?",
         textHelp: "Contact Us",
         buttonMaseDl: "Download the MASE certificat",
         buttonMoreMase: "Read more about MASE certification",
-        mainTitle: "INSERT A TITLE",
-        secondTitle: "INSERER A TEXT",
-        mainText: "INSERT A TEXT",
-        contactText: "INSERT A TEXT HERE",
-        buttonContact: "Contact Us"
+        mainTitle: "DAMRYS COMBUSTION is a French company with thirty years of experience",
+        secondTitle: "leader in the design, manufacture and installation of ecological and very high technology incinerators.",
+        mainText: "Thanks to detailed engineering studies and the collaboration of qualified technicians, we can offer you a complete range of incinerators for hazardous industrial waste, clinical waste (hospital and pharmaceutical), pathological waste (animal and veterinary), confidential waste (documents and tickets) but also cremation furnaces.\n" +
+            "\n" +
+            "Our incinerators have been designed according to the most modern criteria using state-of-the-art technology to meet the most stringent environmental and combustion requirements.\n" +
+            "\n" +
+            "DAMRYS also provides a computerized, fully automatic management and control system with a touch screen operator interface and a user-friendly PLC.\n" +
+            "\n" +
+            "It comes with a system for measuring, acquiring and recording process parameters and transmitting them to a PC station, as well as remote system service.\n" +
+            "\n" +
+            "All our efforts are oriented towards satisfying the needs of each customer :\n" +
+            "Our technical staff carries out daily, with great professionalism, the analysis of customer specifications, feasibility studies, customized designs and tests, after-sales services and remote assistance.",
+        operationTitle: 'Our strong points are :',
+        operationItem1: 'High reliability',
+        operationItem2: 'A high level of efficiency and safety of our products',
+        operationItem3: 'High quality materials',
+        operationItem4: 'Une grande attention aux details',
+        operationItem5: 'Short delivery times',
+        secondText: '  DAMRYS continues to adapt to new technologies and industrial constraints in order to provide its customers durable but also environmentally friendly equipment.',
+        legend: 'Diagram of a rotary furnace'
     },
 };

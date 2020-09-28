@@ -24,16 +24,17 @@
   <component name="ChangeListManager">
     <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="g ajouté d truc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/javascript/lang/lang.en.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascript/lang/lang.en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascript/traduction.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascript/traduction.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/activity.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/activity/combustion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/combustion.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/activity/export.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/export.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/activity/fonderie.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/fonderie.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/activity/raffinerie.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/raffinerie.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/add.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/damkaloc.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/damkaloc.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/entreprise.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/entreprise.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +217,7 @@
       <workItem from="1600850504473" duration="3190000" />
       <workItem from="1600956025893" duration="5582000" />
       <workItem from="1601018944673" duration="5235000" />
-      <workItem from="1601046992330" duration="3999000" />
+      <workItem from="1601046992330" duration="11337000" />
     </task>
     <task id="LOCAL-00001" summary="g ajouté article.blade.php">
       <created>1600845573562</created>
@@ -253,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601042724936</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="g ajouté d truc">
+      <created>1601282114244</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601282114244</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,30 +322,35 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600961448541" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601042728394">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601282137442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="-832" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601019439486" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601042728394" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601282137442" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601036640214" />
-    <state x="123" y="-946" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601027153801">
-      <screen x="0" y="-1080" width="1920" height="1040" />
+    <state x="123" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601285243404">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="123" y="-946" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601027153801" />
+    <state x="123" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601285243404" />
     <state x="777" y="-651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600955525166">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="777" y="-651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600955525166" />
-    <state x="188" y="191" width="583" height="849" key="find.popup" timestamp="1601280315850">
+    <state x="188" y="191" width="583" height="849" key="find.popup" timestamp="1601283728697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="188" y="-843" width="583" height="566" key="find.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601026409121" />
-    <state x="188" y="191" width="583" height="849" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601280315850" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601281224652">
+    <state x="188" y="191" width="583" height="849" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601283728697" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601283476237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601283476237" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601284536200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600962189615" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601281224652" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601284536200" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -359,13 +372,25 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/resources/views/damkaloc.blade.php</url>
-          <line>74</line>
+          <line>88</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/resources/views/blog/add.blade.php</url>
           <line>49</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/javascript/lang/lang.en.js</url>
+          <line>21</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/javascript/lang/lang.en.js</url>
+          <line>433</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

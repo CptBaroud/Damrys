@@ -5,6 +5,20 @@
 @endsection
 
 @section('content')
+    <div class="page-title parallax parallax1 style1">
+        <div class="container wrap-page-title">
+            <div class="page-title-content">
+                <ul>
+                    <li><a href="{{ route('home') }}" id="title">ACCUEIL</a></li>
+                    <li><a href="#" id="title2">DAMKALOC</a></li>
+                </ul>
+            </div>
+            <div class="page-title-heading">
+                <h1 id="title3">Damkaloc</h1>
+            </div>
+        </div>
+    </div>
+
     <div class="main-home1">
         <section class="flat-welcome clearfix">
             <div class="container">
@@ -58,11 +72,11 @@
                             </p>
                             <div class="info-inner">
                                 <ul class="infomation">
-                                    <li id="operationItem3"><i class="fa fa-check"></i>Ventre de coffrages et de consomables</li>
-                                    <li id="operationItem4"><i class="fa fa-check"></i>Capacité de 1200m² de voiles et murs et autant de planchers</li>
+                                    <li id="operationItem1"><i class="fa fa-check"></i>Vente de coffrages et de consomables</li>
+                                    <li id="operationItem2"><i class="fa fa-check"></i>Capacité de 1200m² de voiles et murs et autant de planchers</li>
                                 </ul>
                             </div>
-                            <p>DAMKALOC vous accompagne pour bâtir vos projets de manière plus efficace et plus sûre</p>
+                            <p id="secondText">DAMKALOC vous accompagne pour bâtir vos projets de manière plus efficace et plus sûre</p>
                             <div class="info-button">
                                 <a href="http://damkaloc.fr/" class=" hvr-shutter-out-verticall"
                                    id="operationMore">En savoir plus</a>

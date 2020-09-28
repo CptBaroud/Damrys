@@ -187,9 +187,6 @@
                                                 <li id="cheminee">
                                                     <a href="{{ route('cheminee') }}" title="" id="chemineeLink">Cheminée</a>
                                                 </li>
-                                                <li id="export">
-                                                    <a href="{{ route('export') }}" title="" id="demolitionLink">Export</a>
-                                                </li>
                                             </ul><!-- /.sub-menu -->
                                         </li>
                                         <li id="demolition">
@@ -199,10 +196,10 @@
                                             <a href="{{ route('export') }}" title="" id="exportLink">Export</a>
                                         </li>
                                         <li id="actualite">
-                                            <a href="{{ route('blogHome') }}" title="" id="exportLink">Actualitées</a>
+                                            <a href="{{ route('blogHome') }}" title="" id="actualityLink">Actualitées</a>
                                         </li>
                                         <li id="actualite">
-                                            <a href="{{ route('damkaloc') }}" title="" id="exportLink">Damkaloc</a>
+                                            <a href="{{ route('damkaloc') }}" title="">Damkaloc</a>
                                         </li>
                                         <li id="contact">
                                             <a href="{{ route('contact') }}" title="" id="contactLink">Contact</a>

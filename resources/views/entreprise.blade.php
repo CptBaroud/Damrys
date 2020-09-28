@@ -490,8 +490,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="wrap-row">
-                                <p id="contactSubTitle">INSERER TEXTE ICI</p>
-                                <span id="contactTitle">INSERER TEXTE ICI</span>
+                                <span id="contactTitle">Contactez nous</span>
                                 <a class="themesflat-btn hvr-shutter-out-verticallll" href="{{ route('contact') }}"
                                    id="buttonContact">Nous contacter</a>
                             </div>
