@@ -5,7 +5,7 @@ $(document).ready(function () {
     checkCookie();
     let cookies = getCookie("lang");
     console.log("cookies" + cookies);
-    trad(cookies, page);
+    trad(cookies, page, path);
 
     if (page === "contact" && getCookie("lang") === "en-EN") {
         document.getElementsByName('author')[0].placeholder = 'Your name';
@@ -18,13 +18,13 @@ $(document).ready(function () {
     let buttonFrench = document.getElementById('buttonFrenchChange');
     buttonFrench.addEventListener('click', function () {
         setCookie('lang', 'fr-FR', 365);
-        trad(getCookie('lang'))
+        trad(getCookie('lang'), path)
     });
 
     let buttonEnglish = document.getElementById('buttonEnglishChange');
     buttonEnglish.addEventListener('click', function () {
         setCookie('lang', 'en-EN', 365);
-        trad(getCookie('lang'))
+        trad(getCookie('lang'), path)
     })
 });
 
@@ -60,15 +60,16 @@ function checkCookie() {
     }
 }
 
-function trad(cookies, page) {
+function trad(cookies, page, path) {
     let lang;
     let footer;
     let menu;
-    console.log("page : " + page + " / " + page.length)
+
+    console.log(path.length + ' ' + path)
 
     if (cookies === "en-EN") {
-        if(page.length === 0) {
-            lang = langEN['index'];
+        if(path.toString() === '/') {
+            lang = langEN['home'];
             footer = langEN['footer'];
             menu = langEN['menu'];
         } else {
