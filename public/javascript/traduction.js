@@ -65,8 +65,6 @@ function trad(cookies, page, path) {
     let footer;
     let menu;
 
-    console.log(path.length + ' ' + path)
-
     if (cookies === "en-EN") {
         if(path.toString() === '/') {
             lang = langEN['home'];
