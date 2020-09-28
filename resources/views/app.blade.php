@@ -61,11 +61,11 @@
                             </div>
                             <ul class="select-name">
                                 <li>
-                                    <a href="?lang=en" id="buttonEnglishChange"><img src="{{ asset('images/blog/flag.png') }}" alt="image">English
+                                    <a id="buttonEnglishChange"><img src="{{ asset('images/blog/flag.png') }}" alt="image">English
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="?lang=fr" id="buttonFrenchChange"><img src="{{ asset('images/blog/flag-fr') }}-24x24.png" alt="image" id="buttonFrenchChange">Français</a>
+                                    <a id="buttonFrenchChange"><img src="{{ asset('images/blog/flag-fr') }}-24x24.png" alt="image" id="buttonFrenchChange">Français</a>
                                 </li>
                             </ul>
                         </div>
