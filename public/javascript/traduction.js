@@ -19,12 +19,14 @@ $(document).ready(function () {
     buttonFrench.addEventListener('click', function () {
         setCookie('lang', 'fr-FR', 365);
         trad(getCookie('lang'), path)
+        document.location.reload(false)
     });
 
     let buttonEnglish = document.getElementById('buttonEnglishChange');
     buttonEnglish.addEventListener('click', function () {
         setCookie('lang', 'en-EN', 365);
         trad(getCookie('lang'), path)
+        document.location.reload(false)
     })
 });
 
@@ -65,8 +67,10 @@ function trad(cookies, page, path) {
     let footer;
     let menu;
 
+    console.log(path)
+
     if (cookies === "en-EN") {
-        if(path.toString() === '/') {
+        if(path === '/') {
             lang = langEN['home'];
             footer = langEN['footer'];
             menu = langEN['menu'];
