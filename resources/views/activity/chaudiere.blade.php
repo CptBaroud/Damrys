@@ -86,6 +86,83 @@
                     </div>
                 </div>
             </div>
+            <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE6.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE7.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE8.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE9.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE10.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE11.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE12.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE13.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE14.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE15.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE16.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE17.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE18.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE19.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE20.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE21.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE22.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 @endsection

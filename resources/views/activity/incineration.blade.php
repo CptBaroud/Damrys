@@ -84,7 +84,40 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/incineration/gallerie/INCINERATION.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/incineration/gallerie/INCINERATION2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/incineration/gallerie/INCINERATION3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/incineration/gallerie/INCINERATION6.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/incineration/gallerie/INCINERATION7.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/incineration/gallerie/INCINERATION8.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

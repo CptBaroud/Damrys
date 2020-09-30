@@ -188,6 +188,47 @@
                                                 <img src="assets/image/services/service3.png" alt="image">
                                             </div>
                                         </article> -->
+            <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO.png') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO6.png') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO7.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO8.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO9.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/raffinerie/gallerie/PETRO10.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 @endsection

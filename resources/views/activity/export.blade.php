@@ -26,7 +26,7 @@
             <article class="post post-wrap">
                 <div class="featured-post">
                     <div class="post-img">
-                        <img src="{{ asset('images/combustion/combustion.png') }}" alt="image">
+                        <img src="{{ asset('images/page/export/EXPORT.jpg') }}" alt="image">
                         <!--<div class="overlay"></div>-->
                     </div>
                     <div class="icon-wrap">
@@ -78,12 +78,92 @@
                         ses clients des équipements durables mais aussi respectueux de l'environnement.
                     </p>
                     <div class="post-img">
-                        <img src="{{ asset('images/combustion/schema.png') }}" alt="image">
+                        <img src="{{ asset('images/page/export/schema.png') }}" alt="image">
                     </div>
                     <p id="legend">Schéma d'un four rotatif</p>
                 </div>
             </article>
             <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
+            <div class="spacer" data-desktop_height="55" data-mobile_height="55" data-smobile_height="55"></div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE6.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE7.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE8.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE9.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE10.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE11.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE12.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE13.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE14.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE15.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE16.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE17.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE18.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE19.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE20.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE21.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE22.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/fonderie/gallerie/FONDERIE23.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 @endsection

@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="content-post">
-                    <h2 id="mainTitle">Damrys est un partenaire majeurdes cimenteries en France</h2>
+                    <h2 id="mainTitle">Damrys est un partenaire majeur des cimenteries en France</h2>
                     <h3 id="secondTitle"><a href="#">Travaux neufs et rénovation des fours pour optimiser la production.</a></h3>
                     <p id="mainText">Depuis plusieurs années nous avons réalisé des arrêts majeurs ainsi que des opérations de
                         travaux neufs chez les acteurs principaux de la cimenterie en France<br><br>
@@ -85,6 +85,83 @@
                             </ul>
                             <div class="clearfix"></div>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="spacer" data-desktop_height="55" data-mobile_height="55" data-smobile_height="55"></div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE6.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE7.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE8.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE9.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE10.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE11.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE12.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE13.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE14.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE15.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE16.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE17.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE18.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE19.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE20.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE21.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cimenterie/gallerie/CIMENTERIE22.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
                     </div>
                 </div>
             </div>

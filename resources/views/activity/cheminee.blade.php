@@ -26,7 +26,7 @@
             <article class="post post-wrap">
                 <div class="featured-post">
                     <div class="post-img">
-                        <img src="{{ asset('images/page/chemine/Cheminee.jpg') }}" alt="image">
+                        <img src="{{ asset('images/page/chemine/CHEMINEE1.jpg') }}" alt="image">
                         <!--<div class="overlay"></div>-->
                     </div>
                     <div class="icon-wrap">
@@ -91,6 +91,58 @@
                             </ul>
                             <div class="clearfix"></div>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE1.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE6.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE7.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE8.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE10.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE11.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE12.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE13.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/chemine/gallerie/CHEMINEE14.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
                     </div>
                 </div>
             </div>

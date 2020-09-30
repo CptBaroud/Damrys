@@ -26,7 +26,7 @@
             <article class="post post-wrap">
                 <div class="featured-post">
                     <div class="post-img">
-                        <img src="{{ asset('images/page/cremation/Four%20crématoire.jpg') }}" alt="image">
+                        <img src="{{ asset('images/page/cremation/Cremation.jpg') }}" alt="image">
                         <!--<div class="overlay"></div>-->
                     </div>
                     <div class="icon-wrap">
@@ -73,6 +73,38 @@
                             </ul>
                             <div class="clearfix"></div>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="spacer" data-desktop_height="55" data-mobile_height="55" data-smobile_height="55"></div>
+            <div class="service-wrap" style="margin-top: 10px">
+                <div class="row">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="{{ asset('images/page/cremation/gallerie/CREMATION1.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cremation/gallerie/CREMATION2.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cremation/gallerie/CREMATION3.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cremation/gallerie/CREMATION4.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="{{ asset('images/page/cremation/gallerie/CREMATION5.jpg') }}" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Suivant</span>
+                        </a>
                     </div>
                 </div>
             </div>

@@ -100,8 +100,8 @@
                                                 <li><i class=" icon-phone-call-2"></i>
                                                     <div class="info-content">
                                                         <h5 class="title" id="contactPhone">Téléphone</h5>
-                                                        <p><a href="#contactPhone" id="contactPhoneContent">St-Nazaire : 02 40 67 18 53</a>
-                                                        <p><a href="#contactPhone" id="contactPhoneContent">Rouen : 02 35 68 33 33</a>
+                                                        <p><a href="#contactPhone" id="contactPhoneContent">Vigneux : 02 40 67 18 53</a>
+                                                        <p><a href="#contactPhone" id="contactPhoneContent">Grand couronne : 02 35 68 33 33</a>
                                                     </div>
                                                 </li>
                                             </ul>

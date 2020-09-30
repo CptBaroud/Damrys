@@ -247,7 +247,7 @@
 
                                 Entreprise en Génie Thermique nous possédons la certification <a href="#secondTitle">MASE</a>;
                                 gage de notre
-                                implication dans le management de la qualité et de la sécurité.
+                                implication dans le management de la qualité et de la sécurité. Et nous nous dirigeons vers une certification <a href="">ISO 9001</a>
                             </p>
                             <div class="info-inner">
                                 <h3 class="mb-3" id="operationTitle">Nous intervenons pour les opérations de : </h3>

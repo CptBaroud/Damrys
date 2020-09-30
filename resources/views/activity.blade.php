@@ -82,7 +82,7 @@
                         </div>
                         <div class="spacer" data-desktop_height="30" data-mobile_height="30" data-smobile_height="30"></div>
                         <div class="widget widget-text">
-                            <a href="http://mase-asso.fr/" target="_blank" class="download hvr-shutter-out-verticall" id="buttonMaseDl">Téléchargez le
+                            <a href="{{ asset('Certificat_MASE_DAMRYS_2019-2022.pdf') }}" target="_blank" class="download hvr-shutter-out-verticall" id="buttonMaseDl">Téléchargez le
                                 certificat MASE</a>
                         </div>
                         <div class="spacer" data-desktop_height="8" data-mobile_height="8" data-smobile_height="8"></div>

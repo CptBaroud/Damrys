@@ -26,7 +26,7 @@
             <article class="post post-wrap">
                 <div class="featured-post">
                     <div class="post-img">
-                        <img src="{{ asset('images/demolition/demolition.jpg') }}" alt="image">
+                        <img src="{{ asset('images/demolition/real/file-21.jpeg') }}" alt="image">
                         <!--<div class="overlay"></div>-->
                     </div>
                     <div class="icon-wrap">
@@ -34,20 +34,30 @@
                     </div>
                 </div>
                 <div class="content-post">
-                    <h2 id="mainTitle">Damrys, une expérience dans la réfection des cheminées industrielles</h2>
-                    <h3 id="secondTitle"><a href="#">De nombreuses méthodes d’application adaptées aux types
-                            d’installation</a></h3>
-                    <p id="mainText">Nos expériences multiples et nos connaissances techniques, nous permettent
-                        de vous proposez une gamme complète de produits, matériaux en fonction des structures
-                        (métalliques, béton, briques) mais aussi d’adapter nos garnissages ou chemisages au
-                        process des installations selon vos contraintes d’exploitations et
-                        environnementales.<br><br>
-
-                        Notre politique qualité consiste à satisfaire notre client par une gestion globale de
-                        nos chantiers, en alliant : savoir-faire, sécurité, coûts et délai.<br><br>
-
-                        Nous pouvons intervenir pour l’expertise, le contrôle, l’entretien, les réparations et
-                        la mise en place d’équipement sur l’ensemble de vos installations.</p>
+                    <h2 id="mainTitle">DAMRYS est une entreprise innovante, toujours à l’écoute des nouvelles technologies pour vous
+                        en faire profiter</h2>
+                    <h3 id="secondTitle"><a href="#mainTitle">C’est pourquoi, nous développons depuis plusieurs années notre activité de démolition robotisée et
+                            contrôlée grâce à des Brokk®.
+                        </a></h3>
+                    <p id="mainText">Tout d’abord au sein des sites industriels français pour lesquels nous sommes prestataires de travaux
+                        réfractaires et depuis, sur de nouveaux marchés particulièrement dans le secteur du bâtiment en Franc
+                        et en Europe.
+                        <br><br>
+                        Nous répondons ainsi à vos travaux de démolition en espace exigus et/ou confinés : par rapport à une
+                        pelleteuse, l’encombrement et le poids d’un BROKK® est réduit par 3 pour une puissance aussi
+                        importante et des équipements tout aussi adaptés : pince, BRH, fraise, godet, cisaille…
+                        <br><br>
+                        Electrique et radiocommandé, ce matériel réduit considérablement les nuisances, il ne génère aucune
+                        pollution, ni aucune fumée pouvant gêner la progression de l’opérateur qui garde ainsi une vue
+                        d’ensemble sur son travail et avance en toute sécurité.
+                        <br><br>
+                        Le développement de cette activité nous permet aujourd’hui d’avoir notre propre matériel avec un
+                        responsable de chantier dédié et accompagné d’une équipe de personnes qualifiées et habilitées à son
+                        utilisation. Ce qui nous permet d’être complétement autonome et de vous offrir une prestation
+                        complète (opérateur, matériel, consommables, entretien…)
+                        <br><br>
+                        Reconnu pour notre réactivité et notre savoir-faire, nous sommes devenu, au fil du temps, un acteur qui
+                        compte dans le domaine de la démolition robotisée de qualité.</p>
                 </div>
             </article>
             <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>

@@ -26,10 +26,10 @@
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="image-welcome">
                             <div class="image-wrap">
-                                <img src="{{ asset('images/cimenterie/cimenterie.jpg') }}" alt="image">
+                                <img src="{{ asset('images/page/damkaloc/damkaloc.jpg') }}" alt="image">
                             </div>
                             <div class="image-inner">
-                                <img src="{{ asset('images/cimenterie/cimenterie2.jpg') }}" alt="image">
+                                <img src="{{ asset('images/page/damkaloc/damkaloc2.png') }}" alt="image">
                             </div>
                             <div class="icon-welcome">
                                 <i class="icon-factory-3"></i>
@@ -80,6 +80,77 @@
                             <div class="info-button">
                                 <a href="http://damkaloc.fr/" class=" hvr-shutter-out-verticall"
                                    id="operationMore">En savoir plus</a>
+                            </div>
+                            <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
+                            <div class="service-wrap" style="margin-top: 10px">
+                                <div class="row">
+                                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC2.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC3.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC6.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC7.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC8.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC9.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC10.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC11.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC12.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC13.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC14.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC15.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC16.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC17.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC18.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC19.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{ asset('images/page/damkaloc/gallerie/DAMKALOC20.jpg') }}" class="d-block w-100" alt="...">
+                                            </div>
+                                        </div>
+                                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Précedent</span>
+                                        </a>
+                                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Suivant</span>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
