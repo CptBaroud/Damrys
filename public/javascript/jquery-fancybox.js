@@ -1320,7 +1320,7 @@
 
 				wrap.width( width + wPadding );
 
-				// Real wrap dimensions
+				// demolition wrap dimensions
 				width_  = wrap.width();
 				height_ = wrap.height();
 

@@ -433,7 +433,7 @@
                         <article class="post post-wrap">
                             <div class="featured-post">
                                 <div class="post-img">
-                                    <img src="{{ asset('images/demolition/real/file-21.jpeg') }}" alt="image">
+                                    <img src="{{ asset('images/demolition/real/DEMOLITION2.jpeg') }}" alt="image">
                                     <div class="overlay"></div>
                                 </div>
                                 <div class="icon-wrap">
