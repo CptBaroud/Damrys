@@ -23,167 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="g ajouté d truc">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Certificat_MASE_DAMRYS_2019-2022.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE11.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE12.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE14.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE15.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE17.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE18.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE20.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE22.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chaudiere/gallerie/ENERGIE9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/CHEMINEE1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE11.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE12.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE14.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/chemine/gallerie/CHEMINEE8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE12.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE18.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE19.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cimenterie/gallerie/CIMENTERIE9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cremation/Cremation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cremation/gallerie/CREMATION1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cremation/gallerie/CREMATION2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cremation/gallerie/CREMATION3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cremation/gallerie/CREMATION4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/cremation/gallerie/CREMATION5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/damkaloc.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC11.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC12.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC14.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC15.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC16.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/damkaloc/gallerie/DAMKALOC9.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/export/EXPORT.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/export/schema.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE11.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE15.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE21.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE22.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE23.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/fonderie/gallerie/FONDERIE9.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/incineration/gallerie/INCINERATION8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/nucleaire/gallerie/NUCLEAIRE.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/nucleaire/gallerie/NUCLEAIRE2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/nucleaire/gallerie/NUCLEAIRE3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/page/raffinerie/gallerie/PETRO9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/damrysLaravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/damrysLaravel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/about1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/about2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/avatar-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/avatar-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/avatar-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/avatar-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/avatar-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/chemine/Cheminee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/cimenterie/Cimenterie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/page/cimenterie/Cimenterie.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/cremation/Four crématoire.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/history1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/page1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/time-line-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/time-line-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/time-line-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/page/time-line-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/chaudiere.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/chaudiere.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/cheminee.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/cheminee.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/cimenterie.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/cimenterie.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/cremation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/cremation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/page/nucleaire/gallerie/NUCLEAIRE.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/page/nucleaire/gallerie/NUCLEAIRE.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/activity/demolition.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/demolition.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/export.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/export.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/incineration.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/incineration.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/activity/raffinerie.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/activity/raffinerie.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/damkaloc.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/damkaloc.blade.php" afterDir="false" />
@@ -350,10 +193,11 @@
       <recent name="C:\Users\gurva\damrysLaravel\public\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\Damrys\public\images\page\demolition\gallerie" />
+      <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\Damrys\public\images\page" />
       <recent name="C:\Users\gurva\damrysLaravel\resources\views" />
       <recent name="C:\Users\gurva\damrysLaravel\resources\views\layouts" />
       <recent name="C:\Users\gurva\damrysLaravel\public" />
-      <recent name="C:\Users\gurva\damrysLaravel\public\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -377,7 +221,8 @@
       <workItem from="1601018944673" duration="5235000" />
       <workItem from="1601046992330" duration="11800000" />
       <workItem from="1601298625688" duration="3753000" />
-      <workItem from="1601386828694" duration="13830000" />
+      <workItem from="1601386828694" duration="22060000" />
+      <workItem from="1601539069862" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="g ajouté article.blade.php">
       <created>1600845573562</created>
@@ -456,7 +301,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601363740171</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="g ajouté d truc">
+      <created>1601460245931</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601460245931</updated>
+    </task>
+    <task id="LOCAL-00013" summary="g ajouté d truc">
+      <created>1601460266448</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601460266448</updated>
+    </task>
+    <task id="LOCAL-00014" summary="g ajouté d truc">
+      <created>1601469217826</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601469217826</updated>
+    </task>
+    <task id="LOCAL-00015" summary="g ajouté d truc">
+      <created>1601475747057</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601475747057</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,10 +349,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="g ajouté article.blade.php" />
-    <MESSAGE value="g ajouté d truc" />
     <MESSAGE value="fix 404 error nginx" />
     <MESSAGE value="improve the trad module" />
-    <option name="LAST_COMMIT_MESSAGE" value="improve the trad module" />
+    <MESSAGE value="g ajouté d truc" />
+    <option name="LAST_COMMIT_MESSAGE" value="g ajouté d truc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="-920" key="#Plugins" timestamp="1600955745174">
@@ -520,11 +393,11 @@
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600961448541" />
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601391629959" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601363749586">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1601475750364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="-832" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601019439486" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601363749586" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601475750364" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601298695283" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601036640214" />
     <state x="123" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601285243404">
@@ -545,11 +418,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601283476237" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601459102546">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601477910418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600962189615" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601459102546" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601477910418" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601284536200" />
   </component>
   <component name="XDebuggerManager">
@@ -572,7 +445,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/resources/views/damkaloc.blade.php</url>
-          <line>159</line>
+          <line>171</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">

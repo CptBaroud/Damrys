@@ -36,10 +36,6 @@
                              data-splitout="none"
                              data-paddingleft="['3','3','3','3']"
                              data-responsive_offset="on">
-                            <ul>
-                                <li><img src="{{ asset('images/home/icon-slider-1.png') }}" alt="icon"></li>
-                                <li><img src="{{ asset('images/home/icon-slider-2.png') }}" alt="icon"></li>
-                            </ul>
                         </div>
 
                         <div class="tp-caption tp-resizeme text-ffb922 font-rubik font-weight-500 all-you slider2"
@@ -128,10 +124,6 @@
                              data-splitout="none"
                              data-paddingleft="['3','3','3','3']"
                              data-responsive_offset="on">
-                            <ul>
-                                <li><img src="{{ asset('images/home/icon-slider-1.png') }}" alt="icon"></li>
-                                <li><img src="{{ asset('images/home/icon-slider-2.png') }}" alt="icon"></li>
-                            </ul>
                         </div>
 
                         <div class="tp-caption tp-resizeme text-ffb922 font-rubik font-weight-500 all-you slider2"

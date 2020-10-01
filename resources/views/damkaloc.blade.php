@@ -82,6 +82,18 @@
                                    id="operationMore">En savoir plus</a>
                             </div>
                             <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
+
+                            <div class="widget widget_themesflat_socials">
+                                <ul class="themesflat-shortcode-socials">
+                                    <li class="facebook">
+                                        <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" style="color: #ff4f01 !important;" target="_blank" rel="alternate" title="facebook">
+                                            <i class="fab fa-linkedin"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <!-- /.social -->
+                            </div>
+                            <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
                             <div class="service-wrap" style="margin-top: 10px">
                                 <div class="row">
                                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">

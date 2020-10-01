@@ -76,17 +76,19 @@
                                     <div class="textwidget custom-html-widget">
                                         <div class="flat-widget_text">
                                             <ul>
-
                                                 <div class="info-content">
-
                                                     <h5 class="title" id="contactAdress" style="font-size: 20px"><i class="icon-destination"></i> Adresses</h5>
                                                     <ul>
                                                         <li>
-                                                            <p id="contactAdressContent">1 Rue René Panhard <br>
+                                                            <p id="contactAdressContent">
+                                                                Siège social : <br>
+                                                                1 Rue René Panhard <br>
                                                                 44360 Vigneux-de-Bretagne</p>
                                                         </li>
                                                         <li>
-                                                            <p id="contactAdressContent2">7 rue Léon Blum <br>
+                                                            <p id="contactAdressContent2">
+                                                                Agence : <br>
+                                                                7 rue Léon Blum <br>
                                                                 76530 Grand-Couronne</p>
                                                         </li>
                                                     </ul>
@@ -94,16 +96,20 @@
                                                 <li><i class="icon-message"></i>
                                                     <div class="info-content">
                                                         <h5 class="title" id="contactMail">Email</h5>
-                                                        <p><a href="#contactMail">damrys@damrys.fr</a>
+                                                        <p>damrys@damrys.fr</p>
                                                     </div>
                                                 </li>
-                                                <li><i class=" icon-phone-call-2"></i>
-                                                    <div class="info-content">
-                                                        <h5 class="title" id="contactPhone">Téléphone</h5>
-                                                        <p><a href="#contactPhone" id="contactPhoneContent">Vigneux : 02 40 67 18 53</a>
-                                                        <p><a href="#contactPhone" id="contactPhoneContent">Grand couronne : 02 35 68 33 33</a>
-                                                    </div>
-                                                </li>
+                                                <div class="info-content">
+                                                    <h5 class="title" id="contactAdress" style="font-size: 20px"><i class="icon-phone-call-2"></i> Téléphone</h5>
+                                                    <ul>
+                                                        <li>
+                                                            <p id="contactPhoneContent">Vigneux : 02 40 67 18 53</p>
+                                                        </li>
+                                                        <li>
+                                                            <p id="contactPhoneContent">Grand couronne : 02 35 68 33 33</p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
                                             </ul>
                                         </div>
                                     </div>
@@ -118,6 +124,11 @@
                                         </li>
                                         <li class="twitter">
                                             <a href="https://www.damloc.fr/" target="_blank" rel="alternate" title="twitter">
+                                                <i class="fas fa-globe"></i>
+                                            </a>
+                                        </li>
+                                        <li class="twitter">
+                                            <a href="https://www.damkaloc.fr/" target="_blank" rel="alternate" title="twitter">
                                                 <i class="fas fa-globe"></i>
                                             </a>
                                         </li>

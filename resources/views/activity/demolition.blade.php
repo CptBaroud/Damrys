@@ -36,9 +36,8 @@
                 <div class="content-post">
                     <h2 id="mainTitle">DAMRYS est une entreprise innovante, toujours à l’écoute des nouvelles technologies pour vous
                         en faire profiter</h2>
-                    <h3 id="secondTitle"><a href="#mainTitle">C’est pourquoi, nous développons depuis plusieurs années notre activité de démolition robotisée et
-                            contrôlée grâce à des Brokk®.
-                        </a></h3>
+                    <h3 id="secondTitle">C’est pourquoi, nous développons depuis plusieurs années notre activité de démolition robotisée et
+                            contrôlée grâce à des Brokk®.</h3>
                     <p id="mainText">Tout d’abord au sein des sites industriels français pour lesquels nous sommes prestataires de travaux
                         réfractaires et depuis, sur de nouveaux marchés particulièrement dans le secteur du bâtiment en Franc
                         et en Europe.
@@ -60,27 +59,6 @@
                         compte dans le domaine de la démolition robotisée de qualité.</p>
                 </div>
             </article>
-            <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
-            <div class="single-detail-build">
-                <ul class="list-solutions">
-                    <li class="item clearfix">
-                        <div class="wrap-icon">
-                            <div class="wrap-content">
-                                <h4 class="title" id="addon1">Traitement d’armatures, couturage, protection
-                                    anti-acide, réparation des bétons dégradés, réagréage</h4>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="item clearfix">
-                        <div class="wrap-icon">
-                            <div class="wrap-content">
-                                <h4 class="title" id="addon2">Bouchage de fissures, entoilage, cerclage,
-                                    corsetage…</h4>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
             <div class="spacer" data-desktop_height="55" data-mobile_height="55" data-smobile_height="55"></div>
             <div class="flat-question">
                 <div class="flat-spacer clearfix" data-desktop="98" data-mobile="45" data-smobile="45"></div>
