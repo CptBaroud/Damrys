@@ -106,9 +106,6 @@
                             <div class="carousel-item">
                                 <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE7.jpg') }}" class="d-block w-100" alt="...">
                             </div>
-                            <div class="carousel-item">
-                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE8.jpg') }}" class="d-block w-100" alt="...">
-                            </div>
                             <div class="carousel-item active">
                                 <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE9.jpg') }}" class="d-block w-100" alt="...">
                             </div>
@@ -141,9 +138,6 @@
                             </div>
                             <div class="carousel-item">
                                 <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE19.jpg') }}" class="d-block w-100" alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE20.jpg') }}" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
                                 <img src="{{ asset('images/page/chaudiere/gallerie/ENERGIE21.jpg') }}" class="d-block w-100" alt="...">
