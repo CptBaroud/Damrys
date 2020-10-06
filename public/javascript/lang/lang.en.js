@@ -12,9 +12,9 @@ let langEN = {
         nuclearFooter: "Nuclear",
         chimneyFooter: "Chimney",
         activityFooter: "Our Activity",
-        addressContentFooter: "1 Rue René Panhard 44360 Vigneux-de-Bretagne, France",
+        addressContentFooter: "Headquarter : 1 Rue René Panhard 44360 Vigneux-de-Bretagne, France",
         phoneContentFooter: "(+33)2 40 67 18 53",
-        addressContentFooter2: "7 rue Léon Blum 76530 Grand-Couronne, France",
+        addressContentFooter2: "Agency : 7 rue Léon Blum 76530 Grand-Couronne, France",
         phoneContentFooter2: "(+33)2 35 68 33 33",
         legalMentionFooter: "Legal mention"
     },

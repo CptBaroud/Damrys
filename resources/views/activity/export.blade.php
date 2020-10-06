@@ -35,9 +35,9 @@
                 </div>
                 <div class="content-post">
                     <h2 id="mainTitle">DAMRYS COMBUSTION est une entreprise Française avec trente ans d'expérience,</h2>
-                    <h3 id="secondTitle"><a href="#">leader dans la
+                    <h3 id="secondTitle">Leader dans la
                             conception, la fabrication et l'installation d'incinérateurs écologiques et de très haute
-                            technologie. </a></h3>
+                            technologie.</h3>
                     <p id="mainText">Grâce à des études d'ingénierie détaillées et à la collaboration de techniciens
                         qualifiés, nous pouvons
                         vous proposer une gamme complète d'incinérateurs pour les déchets industriels dangereux, les

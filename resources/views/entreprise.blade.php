@@ -198,10 +198,10 @@
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="image-welcome">
                             <div class="image-wrap">
-                                <img src="{{ asset('images/home/home2.png') }}" alt="image">
+                                <img src="{{ asset('images/accueil/home-1.jpg') }}" alt="image">
                             </div>
                             <div class="image-inner">
-                                <img src="{{ asset('images/home/home3.png') }}" alt="image">
+                                <img src="{{ asset('images/accueil/home-2.jpg') }}" alt="image">
                             </div>
                             <div class="icon-welcome">
                                 <i class="icon-factory-3"></i>

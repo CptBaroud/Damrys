@@ -130,10 +130,10 @@
                                     <div class="header-text">
                                         <h4><a href="#" id="headerAdressTitle" class="">ADRESSE</a></h4>
                                         <h5>
-                                            <a href="https://www.google.com/maps/place/1+Rue+Ren%C3%A9+Panhard,+44360+Vigneux-de-Bretagne/@47.3045501,-1.7571017,17z/data=!3m1!4b1!4m5!3m4!1s0x48058e4215521d13:0x826cbcb96f1785c0!8m2!3d47.3045465!4d-1.754913" id="headerAdressContent">1 Rue René Panhard - 44360
+                                            <a href="https://www.google.com/maps/place/1+Rue+Ren%C3%A9+Panhard,+44360+Vigneux-de-Bretagne/@47.3045501,-1.7571017,17z/data=!3m1!4b1!4m5!3m4!1s0x48058e4215521d13:0x826cbcb96f1785c0!8m2!3d47.3045465!4d-1.754913" id="headerAdressContent">Siège social : 1 Rue René Panhard - 44360
                                                 Vigneux-de-Bretagne</a></h5>
                                         <h5>
-                                            <a href="https://www.google.com/maps/place/7+Rue+L%C3%A9on+Blum,+76530+Grand-Couronne/@49.3641951,1.0149102,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e0296112022d:0x2cc23dbef83a8608!8m2!3d49.3641916!4d1.0170989" id="headerAdressContent2">7 rue Léon
+                                            <a href="https://www.google.com/maps/place/7+Rue+L%C3%A9on+Blum,+76530+Grand-Couronne/@49.3641951,1.0149102,17z/data=!3m1!4b1!4m5!3m4!1s0x47e0e0296112022d:0x2cc23dbef83a8608!8m2!3d49.3641916!4d1.0170989" id="headerAdressContent2">Agence : 7 rue Léon
                                                 Blum - 76530 Grand-Couronne</a></h5>
                                     </div>
                                 </li>
