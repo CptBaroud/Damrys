@@ -269,12 +269,17 @@
                         <div class="widget-social">
                             <ul>
                                 <li class="active">
-                                    <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" target="_blank" rel="alternate" title="facebook">
+                                    <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" target="_blank" rel="alternate" title="linkedin">
                                         <i class="fab fa-linkedin"></i>
                                     </a>
                                 </li>
                                 <li class="twitter">
-                                    <a href="https://www.damloc.fr/" target="_blank" rel="alternate" title="twitter">
+                                    <a href="https://www.damloc.fr/" target="_blank" rel="alternate" title="damloc">
+                                        <i class="fas fa-globe"></i>
+                                    </a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="https://www.damkaloc.fr/" target="_blank" rel="alternate" title="damkaloc">
                                         <i class="fas fa-globe"></i>
                                     </a>
                                 </li>

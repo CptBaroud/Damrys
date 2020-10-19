@@ -118,17 +118,17 @@
                                 <div class="widget widget_themesflat_socials">
                                     <ul class="themesflat-shortcode-socials">
                                         <li class="facebook">
-                                            <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" target="_blank" rel="alternate" title="facebook">
+                                            <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" target="_blank" rel="Linkedin" title="facebook">
                                                 <i class="fab fa-linkedin"></i>
                                             </a>
                                         </li>
                                         <li class="twitter">
-                                            <a href="https://www.dadammloc.fr/" target="_blank" rel="alternate" title="twitter">
+                                            <a href="https://www.dadammloc.fr/" target="_blank" rel="alternate" title="Damloc">
                                                 Damloc
                                             </a>
                                         </li>
                                         <li class="twitter">
-                                            <a href="https://www.damkaloc.fr/" target="_blank" rel="alternate" title="twitter">
+                                            <a href="https://www.damkaloc.fr/" target="_blank" rel="alternate" title="Damkaloc">
                                                 Damkaloc
                                             </a>
                                         </li>
