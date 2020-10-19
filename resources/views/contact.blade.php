@@ -123,13 +123,13 @@
                                             </a>
                                         </li>
                                         <li class="twitter">
-                                            <a href="https://www.damloc.fr/" target="_blank" rel="alternate" title="twitter">
-                                                <i class="fas fa-globe"></i>
+                                            <a href="https://www.dadammloc.fr/" target="_blank" rel="alternate" title="twitter">
+                                                Damloc
                                             </a>
                                         </li>
                                         <li class="twitter">
                                             <a href="https://www.damkaloc.fr/" target="_blank" rel="alternate" title="twitter">
-                                                <i class="fas fa-globe"></i>
+                                                Damkaloc
                                             </a>
                                         </li>
                                     </ul>

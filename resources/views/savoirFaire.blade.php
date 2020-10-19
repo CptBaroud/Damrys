@@ -27,22 +27,22 @@
                         <div class="info-inner">
                             <ul>
                                 <li>
-                                    <p id="wrapInfoText1">L'expertise refractaire </p>
+                                    <p id="wrapInfoText1" style="text-align: left !important;">L'expertise refractaire </p>
                                 </li>
                                 <li>
-                                    <p id="wrapInfoText2">L'etude et la conception des garnissages </p>
+                                    <p id="wrapInfoText2" style="text-align: left !important;">L'etude et la conception des garnissages </p>
                                 </li>
                                 <li>
-                                    <p id="wrapInfoText3">Travaux neufs et mise aux normes </p>
+                                    <p id="wrapInfoText3" style="text-align: left !important;">Travaux neufs et mise aux normes </p>
                                 </li>
                                 <li>
-                                    <p id="wrapInfoText4">La Fourniture des matériaux réfractaires </p>
+                                    <p id="wrapInfoText4" style="text-align: left !important;">La Fourniture des matériaux réfractaires </p>
                                 </li>
                                 <li>
-                                    <p id="wrapInfoText5">La création d’un dossier de fin de contrat</p>
+                                    <p id="wrapInfoText5" style="text-align: left !important;">La création d’un dossier de fin de contrat</p>
                                 </li>
                                 <li>
-                                    <p id="wrapInfoText6">Logistique et transport</p>
+                                    <p id="wrapInfoText6" style="text-align: left !important;">Logistique et transport</p>
                                 </li>
                             </ul>
                         </div>

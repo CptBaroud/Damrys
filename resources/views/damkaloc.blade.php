@@ -87,7 +87,7 @@
                                 <ul class="themesflat-shortcode-socials">
                                     <li class="facebook">
                                         <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" style="color: #ff4f01 !important;" target="_blank" rel="alternate" title="facebook">
-                                            <i class="fab fa-linkedin"></i>
+                                            <i class="fab fa-linkedin fa-4x" style="color: #0f3e68"></i>
                                         </a>
                                     </li>
                                 </ul>
