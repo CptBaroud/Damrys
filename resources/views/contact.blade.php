@@ -118,7 +118,7 @@
                                 <div class="widget widget_themesflat_socials">
                                     <ul class="themesflat-shortcode-socials">
                                         <li class="facebook">
-                                            <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" target="_blank" rel="Linkedin" title="facebook">
+                                            <a href="https://www.linkedin.com/company/damrys/?originalSubdomain=fr" target="_blank" rel="Linkedin" title="Linkedin">
                                                 <i class="fab fa-linkedin"></i>
                                             </a>
                                         </li>

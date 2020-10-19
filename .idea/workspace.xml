@@ -24,8 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="g ajouté d truc">
       <change afterPath="$PROJECT_DIR$/public/images/accueil/boamp-avis-20-121660.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +224,7 @@
       <workItem from="1601985308245" duration="2582000" />
       <workItem from="1602054709615" duration="1467000" />
       <workItem from="1603093878024" duration="1215000" />
-      <workItem from="1603096036196" duration="87000" />
+      <workItem from="1603096036196" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="g ajouté article.blade.php">
       <created>1600845573562</created>
@@ -368,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603094932514</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="g ajouté d truc">
+      <created>1603096257471</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603096257471</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,13 +438,13 @@
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600961448541" />
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601391629959" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1603094936801">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1603096267612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="-832" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601019439486" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-349.1080.1880@0.0.1920.1040" timestamp="1601986688088" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601475750364" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603094936801" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603096267612" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601036640214" />
     <state x="123" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601986245225">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -461,13 +466,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601283476237" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603096039891">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603096424543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600962189615" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-349.1080.1880@0.0.1920.1040" timestamp="1601986290050" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601477910418" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603096039891" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603096424543" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
