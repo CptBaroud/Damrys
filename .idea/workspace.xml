@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e6c6412-d959-45c5-9758-216047f12160" name="Default Changelist" comment="g ajouté d truc">
       <change afterPath="$PROJECT_DIR$/public/images/accueil/boamp-avis-20-121660.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +224,7 @@
       <workItem from="1601985308245" duration="2582000" />
       <workItem from="1602054709615" duration="1467000" />
       <workItem from="1603093878024" duration="1215000" />
-      <workItem from="1603096036196" duration="393000" />
+      <workItem from="1603096036196" duration="1586000" />
     </task>
     <task id="LOCAL-00001" summary="g ajouté article.blade.php">
       <created>1600845573562</created>
@@ -373,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603096257471</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="g ajouté d truc">
+      <created>1603096437494</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603096437494</updated>
+    </task>
+    <task id="LOCAL-00023" summary="g ajouté d truc">
+      <created>1603099017291</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603099017291</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,13 +452,13 @@
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1600961448541" />
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601391629959" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1603096267612">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1603099020049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="-832" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1601019439486" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-349.1080.1880@0.0.1920.1040" timestamp="1601986688088" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1601475750364" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603096267612" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603099020049" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601036640214" />
     <state x="123" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601986245225">
       <screen x="0" y="0" width="1920" height="1040" />
