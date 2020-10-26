@@ -59,29 +59,6 @@
                         compte dans le domaine de la démolition robotisée de qualité.</p>
                 </div>
             </article>
-            <div class="spacer" data-desktop_height="55" data-mobile_height="55" data-smobile_height="55"></div>
-            <div class="flat-question">
-                <div class="flat-spacer clearfix" data-desktop="98" data-mobile="45" data-smobile="45"></div>
-                <div class="accordion">
-                    <div class="accordion-toggle">
-                        <div class="toggle-title clearfix">
-                            <p id="wrapperTitle">Nos types d'installations</p> <i class="fas fa-plus"
-                                                                                  aria-hidden="true"></i>
-                        </div>
-                        <div class="toggle-content">
-                            <ul>
-                                <li id="wrapperItem1">Cheminées industrielles</li>
-                                <li id="wrapperItem2">Châteaux d’eau réfrigérants</li>
-                                <li id="wrapperItem3">Tours béton</li>
-                                <li id="wrapperItem4">Silos</li>
-                                <li id="wrapperItem5">Réservoirs</li>
-                                <li id="wrapperItem6">Structures béton armé diverses…</li>
-                            </ul>
-                            <div class="clearfix"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="spacer" data-desktop_height="60" data-mobile_height="60" data-smobile_height="60"></div>
             <div class="service-wrap" style="margin-top: 10px">
                 <div class="row">
