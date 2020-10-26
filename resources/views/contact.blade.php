@@ -123,7 +123,7 @@
                                             </a>
                                         </li>
                                         <li class="twitter">
-                                            <a href="https://www.dammloc.fr/" target="_blank" rel="alternate" title="Damloc">
+                                            <a href="https://www.damloc.fr/" target="_blank" rel="alternate" title="Damloc">
                                                 Damloc
                                             </a>
                                         </li>
