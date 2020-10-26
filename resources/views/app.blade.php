@@ -227,7 +227,7 @@
 
 <footer class="style1" id="footer">
     <div class="container">
-        <div class="row">
+        <div class="row" style="display: inline">
             <div class="footer">
                 <div class="col-lg-12">
                     <div class="widget widget-about widget-menu">
