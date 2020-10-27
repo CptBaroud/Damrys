@@ -301,7 +301,7 @@
                 <div class="col-lg-12">
                     <div class="bottom-inner">
                         <p>Made by<a href="http://www.web4business.fr" target="_blank"> Web 4 Business </a>
-                            <a href="#footer" id="legalMentionFooter">- Mentions légales</a>
+                            <a href="{{ route('mentions') }}" id="legalMentionFooter">- Mentions légales</a>
                         </p>
                     </div>
                 </div>

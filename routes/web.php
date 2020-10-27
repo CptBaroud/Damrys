@@ -28,6 +28,10 @@ Route::get('/entreprise', function (){
     return view('entreprise');
 })->name('entreprise');
 
+Route::get('/mentionsLegales', function (){
+    return view('mentions');
+})->name('mentions');
+
 Route::get('/contact', function (){
     return view('contact');
 })->name('contact');
